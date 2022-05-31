@@ -1,0 +1,2165 @@
+
+
+[2022-04-20 18:10:58.033990] Robot UR5 has finished!
+[2022-04-20 18:10:59.034144] Robot MIT has finished!
+
+[2022-04-20 18:14:22.635286] Robot UR5 has finished!
+[2022-04-20 18:14:23.636262] Robot MIT has finished!
+
+[2022-04-20 18:17:54.162144] Robot UR5 has finished!
+[2022-04-20 18:17:55.162776] Robot MIT has finished!
+
+[2022-04-20 18:19:33.675806] Robot UR5 has finished!
+[2022-04-20 18:19:34.676145] Robot MIT has finished!
+
+
+[2022-04-20 18:22:19.574067] Robot UR5 has finished!
+[2022-04-20 18:22:20.575168] Robot MIT has finished!
+
+[2022-04-20 18:22:43.164192] Robot UR5 has finished!
+[2022-04-20 18:22:44.165301] Robot MIT has finished!
+
+[2022-04-20 18:30:52.563006] Robot UR5 has finished!
+[2022-04-20 18:30:52.563554] Robot MIT has finished!
+
+[2022-04-20 18:31:35.772041] Robot UR5 has finished!
+[2022-04-20 18:31:35.772529] Robot MIT has finished!
+
+[2022-04-20 18:34:06.439933] Robot UR5 has finished!
+[2022-04-20 18:34:06.439971] Robot MIT has finished!
+
+[2022-04-20 18:35:17.089479] Robot UR5 has finished!
+[2022-04-20 18:35:17.089565] Robot MIT has finished!
+[2022-04-20 18:35:19.555957] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:35:21.692114] Robot ABB1200 completed SetObjectState!
+
+[2022-04-20 18:37:13.433196] Robot UR5 has finished!
+[2022-04-20 18:37:13.433599] Robot MIT has finished!
+[2022-04-20 18:37:15.736234] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:37:17.726521] Robot ABB1200 completed SetObjectState!
+
+[2022-04-20 18:38:32.450218] Robot UR5 has finished!
+[2022-04-20 18:38:32.450645] Robot MIT has finished!
+[2022-04-20 18:38:35.182071] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:38:37.362361] Robot ABB1200 completed SetObjectState!
+
+[2022-04-20 18:40:01.205890] Robot UR5 has finished!
+[2022-04-20 18:40:01.206334] Robot MIT has finished!
+[2022-04-20 18:40:03.490910] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:40:05.344717] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:40:05.855391] Robot ABB1200 completed SetVacuumOn!
+[2022-04-20 18:40:06.268453] Robot ABB1200 completed Move!
+[2022-04-20 18:40:07.724427] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:40:09.835351] Robot ABB1200 completed SetRobotPreset!
+
+[2022-04-20 18:43:47.421191] Robot UR5 has finished!
+[2022-04-20 18:43:47.421581] Robot MIT has finished!
+[2022-04-20 18:43:47.437698] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:43:49.602503] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:43:50.113090] Robot ABB1200 completed SetVacuumOn!
+[2022-04-20 18:43:50.523625] Robot ABB1200 completed Move!
+[2022-04-20 18:43:51.716797] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:43:54.734361] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:43:57.682735] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:43:58.193345] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 18:43:59.277096] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:01.377392] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:03.767886] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:03.814923] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:05.921852] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:07.942998] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:08.974182] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:11.244197] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:14.105468] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:14.616268] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 18:44:15.691623] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:17.867087] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:20.187085] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:20.218807] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:22.598144] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:24.567920] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:25.737545] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:28.126861] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:30.805839] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:31.316605] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 18:44:32.351505] Robot ABB1200 completed SetObjectState!
+[2022-04-20 18:44:34.657029] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 18:44:36.982406] Robot ABB1200 completed CombinedMove!
+[2022-04-20 18:44:36.982447] Robot ABB1200 has finished!
+
+[2022-04-20 18:46:54.828831] Robot ABB1200 has finished!
+[2022-04-20 18:46:54.829031] Robot MIT has finished!
+[2022-04-20 18:46:54.850409] Robot UR5 completed SetRobotPreset!
+[2022-04-20 18:46:56.923819] Robot UR5 completed SetObjectState!
+[2022-04-20 18:46:57.434647] Robot UR5 completed SetVacuumOn!
+[2022-04-20 18:46:57.848426] Robot UR5 completed Move!
+[2022-04-20 18:46:58.990861] Robot UR5 completed SetObjectState!
+[2022-04-20 18:47:01.318507] Robot UR5 completed SetRobotPreset!
+[2022-04-20 18:47:04.062962] Robot UR5 completed CombinedMove!
+[2022-04-20 18:47:04.573793] Robot UR5 completed SetVacuumOff!
+[2022-04-20 18:47:05.775782] Robot UR5 completed SetObjectState!
+[2022-04-20 18:47:08.021380] Robot UR5 completed SetRobotPreset!
+[2022-04-20 18:47:10.241931] Robot UR5 completed CombinedMove!
+[2022-04-20 18:47:10.283986] Robot UR5 completed SetRobotPreset!
+[2022-04-20 18:47:12.590732] Robot UR5 completed SetObjectState!
+[2022-04-20 18:47:14.541545] Robot UR5 completed CombinedMove!
+[2022-04-20 18:47:15.697723] Robot UR5 completed SetObjectState!
+[2022-04-20 18:47:18.036023] Robot UR5 completed SetRobotPreset!
+[2022-04-20 18:47:20.702299] Robot UR5 completed CombinedMove!
+[2022-04-20 18:47:21.213116] Robot UR5 completed SetVacuumOff!
+[2022-04-20 18:47:22.441321] Robot UR5 completed SetObjectState!
+
+
+[2022-04-20 19:28:54.518166] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:28:54.518277] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:28:54.519057] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:28:57.744815] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:28:59.741613] Robot MIT completed SetObjectState!
+[2022-04-20 19:29:00.778215] Robot UR5 completed SetObjectState!
+[2022-04-20 19:29:01.287819] Robot UR5 completed SetVacuumOn!
+[2022-04-20 19:29:01.383478] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:29:01.660372] Robot UR5 completed Move!
+[2022-04-20 19:29:02.525919] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:29:03.623943] Robot UR5 completed SetObjectState!
+[2022-04-20 19:29:04.034523] Robot MIT completed CombinedMove!
+[2022-04-20 19:29:05.197473] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:29:07.391806] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:29:08.364081] Robot MIT completed SetObjectState!
+
+[2022-04-20 19:37:53.854155] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:37:53.854256] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:37:53.854937] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:37:57.792247] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:37:58.748110] Robot UR5 completed SetObjectState!
+[2022-04-20 19:37:59.254685] Robot UR5 completed SetVacuumOn!
+[2022-04-20 19:38:01.095382] Robot UR5 completed Move!
+[2022-04-20 19:38:01.255915] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:38:02.561431] Robot MIT completed SetObjectState!
+[2022-04-20 19:38:03.623744] Robot UR5 completed SetObjectState!
+[2022-04-20 19:38:07.349636] Robot MIT completed CombinedMove!
+[2022-04-20 19:38:09.235901] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:38:12.244469] Robot UR5 completed CombinedMove!
+[2022-04-20 19:38:12.755285] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:38:13.297058] Robot MIT completed SetObjectState!
+[2022-04-20 19:38:14.301228] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:38:16.046616] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:38:17.964118] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:38:41.792834] Robot UR5 completed SetObjectState!
+[2022-04-20 19:38:59.558486] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:39:02.042046] Robot UR5 completed CombinedMove!
+[2022-04-20 19:39:08.828630] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:39:08.829755] Robot MIT completed CombinedMove!
+[2022-04-20 19:39:09.336555] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:39:45.359550] Robot UR5 completed SetObjectState!
+[2022-04-20 19:39:59.940734] Robot UR5 completed CombinedMove!
+[2022-04-20 19:40:00.786894] Robot MIT completed SetObjectState!
+[2022-04-20 19:40:14.808255] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:40:18.910375] Robot MIT completed CombinedMove!
+[2022-04-20 19:40:20.195499] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:40:20.254017] Robot UR5 completed SetObjectState!
+[2022-04-20 19:40:29.941046] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:40:30.451802] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:40:32.652013] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:40:34.384641] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:40:37.247666] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:40:43.692654] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:40:44.818299] Robot MIT completed SetObjectState!
+[2022-04-20 19:40:47.722061] Robot UR5 completed CombinedMove!
+[2022-04-20 19:40:48.225908] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:40:50.940005] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:40:51.433913] Robot MIT completed CombinedMove!
+[2022-04-20 19:40:52.461607] Robot UR5 completed SetObjectState!
+[2022-04-20 19:40:53.527769] Robot MIT completed SetObjectState!
+[2022-04-20 19:40:55.700682] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:40:59.063098] Robot UR5 completed CombinedMove!
+[2022-04-20 19:41:01.089869] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:41:02.185966] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:41:08.321092] Robot MIT completed CombinedMove!
+[2022-04-20 19:41:08.827415] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:41:14.147179] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:41:14.626595] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:41:16.585926] Robot MIT completed SetObjectState!
+[2022-04-20 19:41:17.577412] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:41:18.597310] Robot UR5 completed SetObjectState!
+[2022-04-20 19:41:20.498565] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:41:22.327538] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:41:25.524974] Robot MIT completed CombinedMove!
+[2022-04-20 19:41:35.377526] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:41:46.993051] Robot UR5 completed CombinedMove!
+[2022-04-20 19:41:54.645882] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:41:55.156703] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:41:56.856931] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:41:57.819902] Robot UR5 completed SetObjectState!
+[2022-04-20 19:41:59.588042] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:42:00.812919] Robot MIT completed SetObjectState!
+[2022-04-20 19:42:05.779151] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:42:08.465061] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:42:08.467462] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:42:11.087935] Robot UR5 completed CombinedMove!
+[2022-04-20 19:42:11.598756] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:42:14.824264] Robot MIT completed CombinedMove!
+[2022-04-20 19:42:16.483651] Robot MIT completed SetObjectState!
+[2022-04-20 19:42:17.570312] Robot UR5 completed SetObjectState!
+[2022-04-20 19:42:19.363505] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:42:21.822051] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:42:27.570971] Robot UR5 completed CombinedMove!
+[2022-04-20 19:42:27.571041] Robot UR5 has finished!
+[2022-04-20 19:42:33.975425] Robot MIT completed CombinedMove!
+[2022-04-20 19:42:34.486002] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:42:35.292830] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:42:36.341968] Robot MIT completed SetObjectState!
+[2022-04-20 19:42:42.364161] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:42:43.862552] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:42:48.881308] Robot MIT completed CombinedMove!
+[2022-04-20 19:42:48.881338] Robot MIT has finished!
+[2022-04-20 19:42:49.926796] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:42:51.804401] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:42:59.410051] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:42:59.920833] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:43:01.005553] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:43:03.038277] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:43:08.035644] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:43:08.035690] Robot ABB1200 has finished!
+
+
+[2022-04-20 19:50:38.376680] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:50:38.377254] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:50:38.388228] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:50:41.383308] Robot UR5 completed SetObjectState!
+[2022-04-20 19:50:41.894109] Robot UR5 completed SetVacuumOn!
+[2022-04-20 19:50:42.240833] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:50:42.497458] Robot UR5 completed Move!
+[2022-04-20 19:50:46.208984] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:50:46.853648] Robot UR5 completed SetObjectState!
+[2022-04-20 19:50:47.773342] Robot MIT completed SetObjectState!
+[2022-04-20 19:50:48.590490] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:50:51.398221] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:50:54.077250] Robot MIT completed CombinedMove!
+[2022-04-20 19:50:55.380208] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:50:56.282240] Robot MIT completed SetObjectState!
+[2022-04-20 19:51:00.315482] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:51:00.862910] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:51:02.411531] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:51:03.429147] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:51:05.309051] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:51:11.125415] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:51:13.804081] Robot UR5 completed CombinedMove!
+[2022-04-20 19:51:14.361675] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:51:18.113579] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:51:18.116054] Robot UR5 completed SetObjectState!
+[2022-04-20 19:51:24.656303] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:51:29.987562] Robot UR5 completed CombinedMove!
+[2022-04-20 19:51:34.311618] Robot MIT completed CombinedMove!
+[2022-04-20 19:51:34.358547] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:51:34.828105] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:51:36.748203] Robot MIT completed SetObjectState!
+[2022-04-20 19:51:37.647424] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:51:38.610422] Robot UR5 completed SetObjectState!
+[2022-04-20 19:51:41.193506] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:51:42.516042] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:51:43.423108] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:51:46.533701] Robot MIT completed CombinedMove!
+[2022-04-20 19:51:48.193192] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:51:49.596892] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:51:50.019386] Robot UR5 completed CombinedMove!
+[2022-04-20 19:51:53.543801] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:51:54.054322] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:51:55.691612] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:51:56.605917] Robot MIT completed SetObjectState!
+[2022-04-20 19:51:57.342965] Robot UR5 completed SetObjectState!
+[2022-04-20 19:52:00.009776] Robot MIT completed CombinedMove!
+[2022-04-20 19:52:01.807930] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:52:02.709963] Robot MIT completed SetObjectState!
+[2022-04-20 19:52:04.624267] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:52:06.328534] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:52:12.752027] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:52:17.266446] Robot MIT completed CombinedMove!
+[2022-04-20 19:52:17.268568] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:52:17.873801] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:52:19.837633] Robot MIT completed SetObjectState!
+[2022-04-20 19:52:21.192940] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:52:23.097098] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:52:26.512358] Robot MIT completed CombinedMove!
+[2022-04-20 19:52:29.222569] Robot UR5 completed CombinedMove!
+[2022-04-20 19:52:29.225573] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:52:29.731252] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:52:31.944491] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:52:32.561278] Robot UR5 completed SetObjectState!
+[2022-04-20 19:52:33.721912] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:52:35.990565] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:52:38.038327] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:52:39.041891] Robot MIT completed SetObjectState!
+[2022-04-20 19:52:41.181212] Robot UR5 completed CombinedMove!
+[2022-04-20 19:52:43.858397] Robot MIT completed CombinedMove!
+[2022-04-20 19:52:46.819211] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:52:46.830796] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:52:47.330788] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:52:48.982285] Robot MIT completed SetObjectState!
+[2022-04-20 19:52:49.879725] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:52:51.456599] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:52:52.458798] Robot UR5 completed SetObjectState!
+[2022-04-20 19:52:53.922915] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:53:06.260504] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:53:06.263094] Robot ABB1200 has finished!
+[2022-04-20 19:53:10.384661] Robot MIT completed CombinedMove!
+[2022-04-20 19:53:10.899827] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:53:12.029042] Robot MIT completed SetObjectState!
+[2022-04-20 19:53:13.746220] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:53:16.993130] Robot MIT completed CombinedMove!
+[2022-04-20 19:53:16.996011] Robot MIT has finished!
+
+[2022-04-20 19:55:33.982236] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:55:33.983782] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:55:33.984427] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:55:38.144859] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:55:39.059254] Robot UR5 completed SetObjectState!
+[2022-04-20 19:55:39.670758] Robot UR5 completed SetVacuumOn!
+[2022-04-20 19:55:40.112475] Robot MIT completed SetObjectState!
+[2022-04-20 19:55:40.323282] Robot UR5 completed Move!
+[2022-04-20 19:55:43.018497] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:55:45.242521] Robot MIT completed CombinedMove!
+[2022-04-20 19:55:45.952189] Robot UR5 completed SetObjectState!
+[2022-04-20 19:55:47.015173] Robot MIT completed SetObjectState!
+[2022-04-20 19:55:47.816509] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:55:49.619621] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:55:52.224529] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:55:55.029046] Robot UR5 completed CombinedMove!
+[2022-04-20 19:55:55.681670] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:55:56.976085] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:55:58.178032] Robot UR5 completed SetObjectState!
+[2022-04-20 19:56:13.810160] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:56:30.254852] Robot UR5 completed CombinedMove!
+[2022-04-20 19:56:34.681362] Robot MIT completed CombinedMove!
+[2022-04-20 19:56:35.323423] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:56:46.506232] Robot MIT completed SetObjectState!
+[2022-04-20 19:56:57.522754] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:56:59.053642] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:57:01.112610] Robot UR5 completed SetObjectState!
+[2022-04-20 19:57:14.580673] Robot MIT completed CombinedMove!
+[2022-04-20 19:57:28.024656] Robot UR5 completed CombinedMove!
+[2022-04-20 19:57:31.918225] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:57:31.929802] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:57:32.429679] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:57:34.260291] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:57:35.338721] Robot UR5 completed SetObjectState!
+[2022-04-20 19:57:36.160290] Robot MIT completed SetObjectState!
+[2022-04-20 19:57:37.762827] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:57:40.582240] Robot MIT completed CombinedMove!
+[2022-04-20 19:57:42.939813] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:57:44.147154] Robot MIT completed SetObjectState!
+[2022-04-20 19:57:46.365882] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:57:49.170986] Robot UR5 completed CombinedMove!
+[2022-04-20 19:57:49.793688] Robot UR5 completed SetVacuumOff!
+[2022-04-20 19:57:50.872082] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:57:51.098493] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:57:51.986891] Robot UR5 completed SetObjectState!
+[2022-04-20 19:57:54.226249] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:57:56.234544] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:57:59.153395] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:58:02.620299] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:58:08.031377] Robot UR5 completed CombinedMove!
+[2022-04-20 19:58:12.441722] Robot MIT completed CombinedMove!
+[2022-04-20 19:58:13.078725] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:58:14.131775] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:58:14.168381] Robot UR5 completed SetRobotPreset!
+[2022-04-20 19:58:16.335951] Robot MIT completed SetObjectState!
+[2022-04-20 19:58:17.368064] Robot UR5 completed SetObjectState!
+[2022-04-20 19:58:18.980905] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:59:01.261008] Robot MIT completed CombinedMove!
+[2022-04-20 19:59:04.902884] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:59:05.103954] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:59:05.429765] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:59:07.251767] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:59:08.468930] Robot MIT completed SetObjectState!
+[2022-04-20 19:59:10.071609] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:59:12.904123] Robot MIT completed CombinedMove!
+[2022-04-20 19:59:15.542117] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:59:16.604662] Robot MIT completed SetObjectState!
+[2022-04-20 19:59:17.208351] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:59:19.216318] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:59:24.400779] Robot MIT completed CombinedMove!
+[2022-04-20 19:59:25.078665] Robot MIT completed SetVacuumOff!
+[2022-04-20 19:59:25.525266] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:59:26.927774] Robot MIT completed SetObjectState!
+[2022-04-20 19:59:29.542470] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:59:31.278942] Robot MIT completed SetRobotPreset!
+[2022-04-20 19:59:32.547132] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:59:35.955917] Robot MIT completed CombinedMove!
+[2022-04-20 19:59:35.957975] Robot MIT has finished!
+[2022-04-20 19:59:37.963812] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:59:41.985257] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:59:42.672540] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 19:59:44.056426] Robot ABB1200 completed SetObjectState!
+[2022-04-20 19:59:46.028037] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 19:59:49.216255] Robot ABB1200 completed CombinedMove!
+[2022-04-20 19:59:49.217874] Robot ABB1200 has finished!
+
+
+
+[2022-04-20 20:03:43.797887] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:03:43.797997] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:03:43.798714] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:03:46.854932] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:03:48.675735] Robot MIT completed SetObjectState!
+[2022-04-20 20:03:51.512711] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:03:52.767009] Robot UR5 completed SetObjectState!
+[2022-04-20 20:03:53.282305] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:03:55.303884] Robot UR5 completed Move!
+[2022-04-20 20:03:55.459153] Robot MIT completed CombinedMove!
+[2022-04-20 20:03:56.572210] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:03:57.456135] Robot UR5 completed SetObjectState!
+[2022-04-20 20:03:59.023393] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:04:01.225567] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:04:05.343661] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:04:05.986974] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:04:06.852620] Robot MIT completed SetObjectState!
+[2022-04-20 20:04:08.010878] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:04:10.014997] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:04:13.038804] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:04:15.667689] Robot UR5 completed CombinedMove!
+[2022-04-20 20:04:15.767973] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:04:16.173416] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:04:17.642499] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:04:22.464339] Robot UR5 completed SetObjectState!
+[2022-04-20 20:04:25.603806] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:04:29.701222] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:04:35.696995] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:04:39.534063] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:04:41.672040] Robot UR5 completed CombinedMove!
+[2022-04-20 20:04:43.576696] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:04:48.092748] Robot MIT completed CombinedMove!
+[2022-04-20 20:04:48.193047] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:04:48.598518] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:04:59.022362] Robot MIT completed SetObjectState!
+[2022-04-20 20:05:10.406313] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:05:11.409865] Robot UR5 completed SetObjectState!
+[2022-04-20 20:05:22.209364] Robot UR5 completed CombinedMove!
+[2022-04-20 20:05:49.250096] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:05:49.844380] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:05:50.333314] Robot UR5 completed SetObjectState!
+[2022-04-20 20:05:51.245814] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:05:53.476377] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:05:55.180701] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:05:58.291846] Robot MIT completed CombinedMove!
+[2022-04-20 20:06:01.114809] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:06:03.721740] Robot UR5 completed CombinedMove!
+[2022-04-20 20:06:03.722299] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:06:03.753530] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:06:04.227980] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:06:06.226618] Robot UR5 completed SetObjectState!
+[2022-04-20 20:06:09.362882] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:06:11.512147] Robot UR5 completed CombinedMove!
+[2022-04-20 20:06:11.549677] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:06:12.824336] Robot MIT completed SetObjectState!
+[2022-04-20 20:06:16.486162] Robot MIT completed CombinedMove!
+[2022-04-20 20:06:17.091287] Robot UR5 completed SetObjectState!
+[2022-04-20 20:06:18.045177] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:06:19.907034] Robot UR5 completed CombinedMove!
+[2022-04-20 20:06:20.500817] Robot MIT completed SetObjectState!
+[2022-04-20 20:06:21.649484] Robot UR5 completed SetObjectState!
+[2022-04-20 20:06:24.321690] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:06:25.673179] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:06:27.926744] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:06:28.929132] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:06:33.452680] Robot MIT completed CombinedMove!
+[2022-04-20 20:06:34.046030] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:06:35.270416] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:06:45.186346] Robot MIT completed SetObjectState!
+[2022-04-20 20:06:56.525388] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:07:27.682861] Robot MIT completed CombinedMove!
+[2022-04-20 20:07:31.324126] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:07:31.425008] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:07:31.831740] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:07:33.093067] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:07:35.554421] Robot MIT completed SetObjectState!
+[2022-04-20 20:07:37.157958] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:07:39.842826] Robot MIT completed CombinedMove!
+[2022-04-20 20:07:42.350462] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:07:42.352468] Robot ABB1200 has finished!
+[2022-04-20 20:07:44.950747] Robot UR5 completed CombinedMove!
+[2022-04-20 20:07:45.461604] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:07:46.170243] Robot MIT completed SetObjectState!
+[2022-04-20 20:07:47.135745] Robot UR5 completed SetObjectState!
+[2022-04-20 20:07:48.818639] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:07:51.038237] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:07:56.689665] Robot UR5 completed CombinedMove!
+[2022-04-20 20:07:56.689749] Robot UR5 has finished!
+[2022-04-20 20:08:00.834543] Robot MIT completed CombinedMove!
+[2022-04-20 20:08:01.345387] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:08:02.612615] Robot MIT completed SetObjectState!
+[2022-04-20 20:08:04.416573] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:08:07.619854] Robot MIT completed CombinedMove!
+[2022-04-20 20:08:07.619895] Robot MIT has finished!
+
+[2022-04-20 20:13:38.031779] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:13:38.031872] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:13:38.032578] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:13:42.063130] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:13:42.887297] Robot MIT completed SetObjectState!
+[2022-04-20 20:13:45.855328] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:13:46.281686] Robot UR5 completed SetObjectState!
+[2022-04-20 20:13:47.133737] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:13:47.136430] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:13:49.646504] Robot UR5 completed Move!
+[2022-04-20 20:13:49.810234] Robot MIT completed CombinedMove!
+[2022-04-20 20:13:51.562055] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:13:55.892890] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:13:56.403286] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:13:57.183177] Robot UR5 completed SetObjectState!
+[2022-04-20 20:13:58.057827] Robot MIT completed SetObjectState!
+[2022-04-20 20:14:00.542325] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:14:01.554225] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:14:03.357811] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:14:08.467172] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:14:14.980083] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:14:19.395349] Robot MIT completed CombinedMove!
+[2022-04-20 20:14:20.037736] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:14:20.040507] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:14:22.590874] Robot MIT completed SetObjectState!
+[2022-04-20 20:14:23.802499] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:14:25.506015] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:14:29.116850] Robot MIT completed CombinedMove!
+[2022-04-20 20:14:32.222698] Robot UR5 completed CombinedMove!
+[2022-04-20 20:14:32.224734] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:14:32.730333] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:14:35.031914] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:14:35.720343] Robot UR5 completed SetObjectState!
+[2022-04-20 20:14:36.621386] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:14:38.576957] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:14:40.313064] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:14:43.390435] Robot UR5 completed CombinedMove!
+[2022-04-20 20:14:44.412834] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:14:44.415408] Robot MIT completed SetObjectState!
+[2022-04-20 20:14:56.309559] Robot MIT completed CombinedMove!
+[2022-04-20 20:15:06.331606] Robot MIT completed SetObjectState!
+[2022-04-20 20:15:15.019954] Robot UR5 completed SetObjectState!
+[2022-04-20 20:15:16.874138] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:15:29.566253] Robot MIT completed CombinedMove!
+[2022-04-20 20:15:30.244650] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:15:38.453992] Robot MIT completed SetObjectState!
+[2022-04-20 20:15:40.425995] Robot UR5 completed CombinedMove!
+[2022-04-20 20:15:41.915442] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:15:51.931964] Robot UR5 completed SetObjectState!
+[2022-04-20 20:16:02.746994] Robot MIT completed CombinedMove!
+[2022-04-20 20:16:05.351184] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:16:05.353802] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:16:09.008712] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:16:09.660995] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:16:11.785654] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:16:13.339154] Robot MIT completed SetObjectState!
+[2022-04-20 20:16:15.151904] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:16:18.013133] Robot MIT completed CombinedMove!
+[2022-04-20 20:16:20.063951] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:16:22.673558] Robot UR5 completed CombinedMove!
+[2022-04-20 20:16:23.246445] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:16:23.814208] Robot MIT completed SetObjectState!
+[2022-04-20 20:16:24.916010] Robot UR5 completed SetObjectState!
+[2022-04-20 20:16:26.719457] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:16:26.719514] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:16:29.210431] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:16:30.812755] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:16:36.544589] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:16:40.295207] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:16:45.353608] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:16:47.356975] Robot UR5 completed CombinedMove!
+[2022-04-20 20:16:51.328480] Robot MIT completed CombinedMove!
+[2022-04-20 20:16:51.429290] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:16:51.834702] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:17:01.538944] Robot MIT completed SetObjectState!
+[2022-04-20 20:17:12.533780] Robot UR5 completed SetObjectState!
+[2022-04-20 20:17:14.072032] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:17:20.985459] Robot MIT completed CombinedMove!
+[2022-04-20 20:17:20.985639] Robot MIT has finished!
+[2022-04-20 20:17:24.337863] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:17:24.852024] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:17:26.084831] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:17:27.837754] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:17:30.711452] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:17:30.711540] Robot ABB1200 has finished!
+
+
+[2022-04-20 20:21:01.403852] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:21:01.403940] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:21:01.404607] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:21:04.874691] Robot MIT completed SetObjectState!
+[2022-04-20 20:21:05.726729] Robot UR5 completed SetObjectState!
+[2022-04-20 20:21:06.543372] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:21:06.545065] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:21:09.074735] Robot UR5 completed Move!
+[2022-04-20 20:21:09.269327] Robot MIT completed CombinedMove!
+[2022-04-20 20:21:11.952551] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:21:12.639125] Robot UR5 completed SetObjectState!
+[2022-04-20 20:21:13.517274] Robot MIT completed SetObjectState!
+[2022-04-20 20:21:14.718733] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:21:16.721186] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:21:18.234235] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:21:21.339594] Robot UR5 completed CombinedMove!
+[2022-04-20 20:21:21.916039] Robot UR5 completed SetVacuumOff!
+
+
+[2022-04-20 20:34:02.628746] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:34:02.628841] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:34:02.629675] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:34:05.669103] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:34:07.758242] Robot UR5 completed SetObjectState!
+[2022-04-20 20:34:08.269228] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:34:08.848698] Robot UR5 completed Move!
+[2022-04-20 20:34:08.850866] Robot MIT completed SetObjectState!
+[2022-04-20 20:34:11.487721] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:34:12.013859] Robot UR5 completed SetObjectState!
+[2022-04-20 20:34:13.581993] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:34:16.601754] Robot MIT completed CombinedMove!
+[2022-04-20 20:34:19.182236] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:34:20.224383] Robot MIT completed SetObjectState!
+[2022-04-20 20:34:23.729595] Robot UR5 completed CombinedMove!
+[2022-04-20 20:34:24.230396] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:34:25.247198] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:34:26.754234] Robot UR5 completed SetObjectState!
+[2022-04-20 20:34:29.256743] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:34:30.854938] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:34:41.870526] Robot UR5 completed CombinedMove!
+[2022-04-20 20:34:43.874962] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:34:49.662938] Robot MIT completed CombinedMove!
+[2022-04-20 20:34:50.174026] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:34:51.716704] Robot MIT completed SetObjectState!
+[2022-04-20 20:34:53.264502] Robot UR5 completed SetObjectState!
+[2022-04-20 20:34:55.282219] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:35:00.302869] Robot MIT completed CombinedMove!
+[2022-04-20 20:35:02.308382] Robot UR5 completed CombinedMove!
+[2022-04-20 20:35:11.604785] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:35:11.631788] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:35:12.115820] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:35:13.805357] Robot UR5 completed SetObjectState!
+[2022-04-20 20:35:14.842216] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:35:16.359130] Robot MIT completed SetObjectState!
+[2022-04-20 20:35:18.376894] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:35:20.460034] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:35:25.970220] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:35:29.977034] Robot MIT completed CombinedMove!
+[2022-04-20 20:35:32.568657] Robot UR5 completed CombinedMove!
+[2022-04-20 20:35:33.084745] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:35:33.585657] Robot MIT completed SetObjectState!
+[2022-04-20 20:35:35.102702] Robot UR5 completed SetObjectState!
+[2022-04-20 20:35:37.115461] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:35:37.115522] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:35:40.141908] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:35:42.154238] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:35:48.664135] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:35:50.762021] Robot UR5 completed CombinedMove!
+[2022-04-20 20:35:51.803713] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:35:58.313959] Robot MIT completed CombinedMove!
+[2022-04-20 20:35:58.815044] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:35:58.815819] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:36:00.843026] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:36:04.486851] Robot MIT completed SetObjectState!
+[2022-04-20 20:36:05.538853] Robot UR5 completed SetObjectState!
+[2022-04-20 20:36:15.554860] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:36:20.059470] Robot MIT completed CombinedMove!
+[2022-04-20 20:36:28.572979] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:36:29.074950] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:36:29.077500] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:36:31.195714] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:36:32.713007] Robot MIT completed SetObjectState!
+[2022-04-20 20:36:34.796507] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:36:39.304009] Robot MIT completed CombinedMove!
+[2022-04-20 20:36:43.978230] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:36:45.495426] Robot MIT completed SetObjectState!
+[2022-04-20 20:36:45.498396] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:36:48.001823] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:36:54.508527] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:36:56.071275] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:36:57.128671] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:37:03.642535] Robot MIT completed CombinedMove!
+[2022-04-20 20:37:04.646895] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:37:06.184750] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:37:07.742859] Robot MIT completed SetObjectState!
+[2022-04-20 20:37:10.760214] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:37:18.267459] Robot MIT completed CombinedMove!
+[2022-04-20 20:37:18.267498] Robot MIT has finished!
+[2022-04-20 20:37:25.575863] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:37:26.140063] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:37:27.716573] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:37:30.314650] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:37:36.103332] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:37:36.105159] Robot ABB1200 has finished!
+
+[2022-04-20 20:39:54.316180] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:39:54.316277] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:39:54.317443] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:39:58.720942] Robot UR5 completed SetObjectState!
+[2022-04-20 20:39:59.231794] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:39:59.774494] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:40:00.800611] Robot UR5 completed Move!
+[2022-04-20 20:40:01.817169] Robot MIT completed SetObjectState!
+[2022-04-20 20:40:02.833905] Robot UR5 completed SetObjectState!
+[2022-04-20 20:40:06.846040] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:40:08.871870] Robot MIT completed CombinedMove!
+[2022-04-20 20:40:09.873233] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:40:10.874231] Robot MIT completed SetObjectState!
+[2022-04-20 20:40:13.878240] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:40:16.881807] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:40:18.883688] Robot UR5 completed CombinedMove!
+[2022-04-20 20:40:20.887789] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:40:22.920556] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:40:23.942262] Robot UR5 completed SetObjectState!
+[2022-04-20 20:40:29.951295] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:40:35.960452] Robot UR5 completed CombinedMove!
+[2022-04-20 20:40:39.976618] Robot MIT completed CombinedMove!
+[2022-04-20 20:40:40.977592] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:40:40.977658] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:40:45.220537] Robot MIT completed SetObjectState!
+[2022-04-20 20:40:46.242241] Robot UR5 completed SetObjectState!
+[2022-04-20 20:40:50.246237] Robot UR5 completed CombinedMove!
+[2022-04-20 20:40:53.282231] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:40:54.303657] Robot UR5 completed SetObjectState!
+[2022-04-20 20:41:00.311357] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:41:03.355943] Robot MIT completed CombinedMove!
+[2022-04-20 20:41:07.360772] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:41:08.363616] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:41:08.365415] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:41:11.497357] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:41:12.554255] Robot MIT completed SetObjectState!
+[2022-04-20 20:41:15.560430] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:41:18.569815] Robot MIT completed CombinedMove!
+[2022-04-20 20:41:20.573999] Robot MIT completed SetObjectState!
+[2022-04-20 20:41:25.579917] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:41:27.597795] Robot UR5 completed CombinedMove!
+[2022-04-20 20:41:28.599582] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:41:28.600434] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:41:30.636970] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:41:32.959739] Robot UR5 completed SetObjectState!
+[2022-04-20 20:41:33.976269] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:41:38.983985] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:41:41.986985] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:41:43.990237] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:41:48.998123] Robot UR5 completed CombinedMove!
+[2022-04-20 20:41:53.034301] Robot MIT completed CombinedMove!
+[2022-04-20 20:41:54.035532] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:41:54.036497] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:41:55.876660] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:41:57.830195] Robot MIT completed SetObjectState!
+[2022-04-20 20:42:01.849604] Robot UR5 completed SetObjectState!
+[2022-04-20 20:42:03.867362] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:42:11.876871] Robot MIT completed CombinedMove!
+[2022-04-20 20:42:18.886233] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:42:19.887978] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:42:19.891138] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:42:23.068015] Robot MIT completed SetObjectState!
+[2022-04-20 20:42:23.070795] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:42:26.102235] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:42:29.107345] Robot MIT completed CombinedMove!
+[2022-04-20 20:42:31.109266] Robot MIT completed SetObjectState!
+[2022-04-20 20:42:36.114349] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:42:39.117358] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:42:39.120020] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:42:42.142223] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:42:47.149012] Robot MIT completed CombinedMove!
+[2022-04-20 20:42:49.154017] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:42:51.211495] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:42:52.212788] Robot MIT completed SetObjectState!
+[2022-04-20 20:42:54.230250] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:42:57.233565] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:42:59.312096] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:43:04.319520] Robot MIT completed CombinedMove!
+[2022-04-20 20:43:04.319707] Robot MIT has finished!
+[2022-04-20 20:43:07.384483] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:43:08.438223] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:43:10.524949] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:43:13.556010] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:43:17.629134] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:43:17.630912] Robot ABB1200 has finished!
+
+
+
+[2022-04-20 20:48:29.739791] Robot ABB1200 has finished!
+[2022-04-20 20:48:30.140524] Robot MIT has finished!
+[2022-04-20 20:48:30.340666] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:48:32.999214] Robot UR5 completed SetObjectState!
+[2022-04-20 20:48:33.509578] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:48:33.902432] Robot UR5 completed Move!
+[2022-04-20 20:48:35.038538] Robot UR5 completed SetObjectState!
+[2022-04-20 20:48:37.322964] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:48:40.034091] Robot UR5 completed CombinedMove!
+[2022-04-20 20:48:40.544895] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:48:41.639387] Robot UR5 completed SetObjectState!
+[2022-04-20 20:48:43.744926] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:48:45.961639] Robot UR5 completed CombinedMove!
+[2022-04-20 20:48:46.003601] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:48:48.346498] Robot UR5 completed SetObjectState!
+[2022-04-20 20:48:50.294613] Robot UR5 completed CombinedMove!
+[2022-04-20 20:48:51.297190] Robot UR5 completed SetObjectState!
+[2022-04-20 20:48:53.830199] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:48:56.446287] Robot UR5 completed CombinedMove!
+[2022-04-20 20:48:56.957130] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:48:58.106330] Robot UR5 completed SetObjectState!
+[2022-04-20 20:49:00.246740] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:49:02.393699] Robot UR5 completed CombinedMove!
+[2022-04-20 20:49:02.440526] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:49:04.491055] Robot UR5 completed SetObjectState!
+[2022-04-20 20:49:06.367440] Robot UR5 completed CombinedMove!
+[2022-04-20 20:49:07.428778] Robot UR5 completed SetObjectState!
+[2022-04-20 20:49:09.734392] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:49:12.368075] Robot UR5 completed CombinedMove!
+[2022-04-20 20:49:12.878559] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:49:14.081255] Robot UR5 completed SetObjectState!
+[2022-04-20 20:49:16.210864] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:49:18.498229] Robot UR5 completed CombinedMove!
+[2022-04-20 20:49:18.498349] Robot UR5 has finished!
+
+[2022-04-20 20:51:58.867129] Robot ABB1200 has finished!
+[2022-04-20 20:51:59.267952] Robot MIT has finished!
+[2022-04-20 20:51:59.468243] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:01.453332] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:01.964174] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:52:02.352163] Robot UR5 completed Move!
+[2022-04-20 20:52:03.274972] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:05.618168] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:08.357963] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:08.868783] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:52:09.902218] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:12.109721] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:14.319811] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:14.361849] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:16.217811] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:18.168387] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:19.082584] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:21.459003] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:24.111123] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:24.621984] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:52:25.785614] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:28.178686] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:30.306834] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:30.354082] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:32.219005] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:34.066911] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:35.049866] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:37.402318] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:39.988857] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:40.499283] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:52:41.613065] Robot UR5 completed SetObjectState!
+[2022-04-20 20:52:43.867120] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:52:45.949340] Robot UR5 completed CombinedMove!
+[2022-04-20 20:52:45.949371] Robot UR5 has finished!
+
+[2022-04-20 20:53:41.394967] Robot ABB1200 has finished!
+[2022-04-20 20:53:41.795734] Robot MIT has finished!
+[2022-04-20 20:53:41.996019] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:53:44.029682] Robot UR5 completed SetObjectState!
+[2022-04-20 20:53:44.540531] Robot UR5 completed SetVacuumOn!
+[2022-04-20 20:53:44.926302] Robot UR5 completed Move!
+[2022-04-20 20:53:45.833068] Robot UR5 completed SetObjectState!
+[2022-04-20 20:53:48.085761] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:53:50.824783] Robot UR5 completed CombinedMove!
+[2022-04-20 20:53:51.335477] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:53:52.263218] Robot UR5 completed SetObjectState!
+[2022-04-20 20:53:54.786302] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:53:57.008690] Robot UR5 completed CombinedMove!
+[2022-04-20 20:53:57.055759] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:53:58.831797] Robot UR5 completed SetObjectState!
+[2022-04-20 20:54:00.752361] Robot UR5 completed CombinedMove!
+[2022-04-20 20:54:01.683077] Robot UR5 completed SetObjectState!
+[2022-04-20 20:54:03.911028] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:54:06.519925] Robot UR5 completed CombinedMove!
+[2022-04-20 20:54:07.030751] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:54:08.019425] Robot UR5 completed SetObjectState!
+[2022-04-20 20:54:10.230468] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:54:12.375697] Robot UR5 completed CombinedMove!
+[2022-04-20 20:54:12.422531] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:54:14.352581] Robot UR5 completed SetObjectState!
+[2022-04-20 20:54:16.219835] Robot UR5 completed CombinedMove!
+[2022-04-20 20:54:17.196101] Robot UR5 completed SetObjectState!
+[2022-04-20 20:54:19.430115] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:54:21.990375] Robot UR5 completed CombinedMove!
+[2022-04-20 20:54:22.501171] Robot UR5 completed SetVacuumOff!
+[2022-04-20 20:54:23.581080] Robot UR5 completed SetObjectState!
+[2022-04-20 20:54:25.746089] Robot UR5 completed SetRobotPreset!
+[2022-04-20 20:54:27.819087] Robot UR5 completed CombinedMove!
+[2022-04-20 20:54:27.819130] Robot UR5 has finished!
+
+[2022-04-20 20:55:57.447272] Robot UR5 has finished!
+[2022-04-20 20:55:57.847768] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:55:57.847852] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:56:00.738821] Robot MIT completed SetObjectState!
+[2022-04-20 20:56:01.635516] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:56:04.304405] Robot MIT completed CombinedMove!
+[2022-04-20 20:56:06.633276] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:56:07.380297] Robot MIT completed SetObjectState!
+[2022-04-20 20:56:08.314734] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:56:10.102418] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:56:12.073351] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:56:16.370461] Robot MIT completed CombinedMove!
+[2022-04-20 20:56:16.886435] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:56:18.591640] Robot MIT completed SetObjectState!
+[2022-04-20 20:56:23.392863] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:56:27.446454] Robot MIT completed CombinedMove!
+[2022-04-20 20:56:31.497476] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:56:31.498294] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:56:32.003975] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:56:33.741787] Robot MIT completed SetObjectState!
+[2022-04-20 20:56:34.625652] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:56:37.402767] Robot MIT completed CombinedMove!
+[2022-04-20 20:56:38.719531] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:56:39.595342] Robot MIT completed SetObjectState!
+[2022-04-20 20:56:42.377828] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:56:44.287676] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:56:44.295383] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:56:48.680100] Robot MIT completed CombinedMove!
+[2022-04-20 20:56:49.190996] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:56:50.809182] Robot MIT completed SetObjectState!
+[2022-04-20 20:56:51.702728] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:56:53.633872] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:56:56.315724] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:56:58.941828] Robot MIT completed CombinedMove!
+[2022-04-20 20:56:59.929910] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:56:59.941231] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:57:01.722750] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:57:06.872526] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:57:07.384263] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:57:07.872977] Robot MIT completed SetObjectState!
+[2022-04-20 20:57:08.805837] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:57:11.493905] Robot MIT completed CombinedMove!
+[2022-04-20 20:57:13.025485] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:57:13.809033] Robot MIT completed SetObjectState!
+[2022-04-20 20:57:16.807237] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:57:18.853206] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:57:18.871245] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:57:22.879834] Robot MIT completed CombinedMove!
+[2022-04-20 20:57:23.390715] Robot MIT completed SetVacuumOff!
+[2022-04-20 20:57:25.121002] Robot MIT completed SetObjectState!
+[2022-04-20 20:57:26.101639] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:57:27.682169] Robot MIT completed SetRobotPreset!
+[2022-04-20 20:57:30.490007] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:57:33.128330] Robot MIT completed CombinedMove!
+[2022-04-20 20:57:33.128364] Robot MIT has finished!
+[2022-04-20 20:57:34.260229] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:57:36.631800] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:57:40.346699] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:57:40.857354] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 20:57:41.952297] Robot ABB1200 completed SetObjectState!
+[2022-04-20 20:57:43.811439] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 20:57:46.626053] Robot ABB1200 completed CombinedMove!
+[2022-04-20 20:57:46.626106] Robot ABB1200 has finished!
+
+
+[2022-04-20 21:10:16.864996] Robot ABB1200 has finished!
+[2022-04-20 21:10:17.265777] Robot MIT has finished!
+[2022-04-20 21:10:17.466061] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:17.976917] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:10:18.358629] Robot UR5 completed Move!
+[2022-04-20 21:10:19.613828] Robot UR5 completed SetObjectState!
+[2022-04-20 21:10:21.974934] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:24.710303] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:25.220787] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:10:26.471254] Robot UR5 completed SetObjectState!
+[2022-04-20 21:10:29.246388] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:31.451853] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:31.498717] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:33.425372] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:34.660465] Robot UR5 completed SetObjectState!
+[2022-04-20 21:10:37.168812] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:39.760829] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:40.271260] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:10:41.605317] Robot UR5 completed SetObjectState!
+[2022-04-20 21:10:43.960734] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:46.082501] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:46.104575] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:47.978700] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:49.160983] Robot UR5 completed SetObjectState!
+[2022-04-20 21:10:51.744997] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:10:54.337166] Robot UR5 completed CombinedMove!
+[2022-04-20 21:10:54.847953] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:10:56.048183] Robot UR5 completed SetObjectState!
+[2022-04-20 21:10:58.457373] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:11:00.538207] Robot UR5 completed CombinedMove!
+[2022-04-20 21:11:00.538256] Robot UR5 has finished!
+
+[2022-04-20 21:13:04.896579] Robot ABB1200 has finished!
+[2022-04-20 21:13:05.297363] Robot MIT has finished!
+[2022-04-20 21:13:05.497665] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:06.008554] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:13:06.389965] Robot UR5 completed Move!
+[2022-04-20 21:13:07.506385] Robot UR5 completed SetObjectState!
+[2022-04-20 21:13:09.967391] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:12.657604] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:13.168403] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:13:14.282725] Robot UR5 completed SetObjectState!
+[2022-04-20 21:13:16.622032] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:18.767974] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:18.815197] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:20.757347] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:21.765147] Robot UR5 completed SetObjectState!
+[2022-04-20 21:13:23.942772] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:26.481373] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:26.992181] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:13:28.038476] Robot UR5 completed SetObjectState!
+[2022-04-20 21:13:30.470558] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:32.545039] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:32.587675] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:34.474753] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:35.623293] Robot UR5 completed SetObjectState!
+[2022-04-20 21:13:38.074362] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:40.614530] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:41.125360] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:13:42.279048] Robot UR5 completed SetObjectState!
+[2022-04-20 21:13:44.721417] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:13:46.753409] Robot UR5 completed CombinedMove!
+[2022-04-20 21:13:46.753454] Robot UR5 has finished!
+
+[2022-04-20 21:15:15.222307] Robot ABB1200 has finished!
+[2022-04-20 21:15:15.622907] Robot MIT has finished!
+[2022-04-20 21:15:15.823119] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:16.333607] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:15:16.721607] Robot UR5 completed Move!
+[2022-04-20 21:15:17.632111] Robot UR5 completed SetObjectState!
+[2022-04-20 21:15:20.011911] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:22.634853] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:23.145736] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:15:24.089661] Robot UR5 completed SetObjectState!
+[2022-04-20 21:15:26.319220] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:28.398830] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:28.440654] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:30.358466] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:31.448136] Robot UR5 completed SetObjectState!
+[2022-04-20 21:15:33.710796] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:36.184981] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:36.695708] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:15:37.718381] Robot UR5 completed SetObjectState!
+[2022-04-20 21:15:39.949063] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:41.923973] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:41.950800] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:43.810601] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:44.813341] Robot UR5 completed SetObjectState!
+[2022-04-20 21:15:46.960380] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:49.380795] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:49.891506] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:15:50.863610] Robot UR5 completed SetObjectState!
+[2022-04-20 21:15:53.151119] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:15:55.105132] Robot UR5 completed CombinedMove!
+[2022-04-20 21:15:55.105187] Robot UR5 has finished!
+
+[2022-04-20 21:17:19.639528] Robot ABB1200 has finished!
+[2022-04-20 21:17:20.040658] Robot MIT has finished!
+[2022-04-20 21:17:20.240944] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:20.751261] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:17:21.140558] Robot UR5 completed Move!
+[2022-04-20 21:17:22.109383] Robot UR5 completed SetObjectState!
+[2022-04-20 21:17:24.503882] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:27.090548] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:27.600986] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:17:28.702183] Robot UR5 completed SetObjectState!
+[2022-04-20 21:17:31.006172] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:32.749918] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:32.791668] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:34.709947] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:35.816181] Robot UR5 completed SetObjectState!
+[2022-04-20 21:17:37.974630] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:40.635064] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:41.145865] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:17:42.191885] Robot UR5 completed SetObjectState!
+[2022-04-20 21:17:44.394004] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:46.039318] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:46.080953] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:47.944940] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:49.277374] Robot UR5 completed SetObjectState!
+[2022-04-20 21:17:51.427270] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:53.780268] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:54.291097] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:17:55.299695] Robot UR5 completed SetObjectState!
+[2022-04-20 21:17:57.646985] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:17:59.235547] Robot UR5 completed CombinedMove!
+[2022-04-20 21:17:59.235577] Robot UR5 has finished!
+
+[2022-04-20 21:20:34.647908] Robot UR5 has finished!
+[2022-04-20 21:20:35.048501] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:20:35.048595] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:20:37.905513] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:20:40.095316] Robot MIT completed CombinedMove!
+[2022-04-20 21:20:40.632259] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:20:41.536594] Robot MIT completed SetObjectState!
+[2022-04-20 21:20:43.209011] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:20:45.195501] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:20:49.227599] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:20:49.738356] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:20:51.033880] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:20:53.058024] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:21:01.832151] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:21:05.843026] Robot MIT completed CombinedMove!
+[2022-04-20 21:21:05.874637] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:21:06.354142] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:21:08.719874] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:21:09.432357] Robot MIT completed SetObjectState!
+[2022-04-20 21:21:10.678534] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:21:12.538141] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:21:14.499179] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:21:17.536147] Robot MIT completed CombinedMove!
+[2022-04-20 21:21:21.507395] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:21:21.538983] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:21:22.024714] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:21:24.343787] Robot MIT completed CombinedMove!
+[2022-04-20 21:21:24.953788] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:21:25.919935] Robot MIT completed SetObjectState!
+[2022-04-20 21:21:27.598642] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:21:29.429135] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:21:38.207649] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:21:42.338923] Robot MIT completed CombinedMove!
+[2022-04-20 21:21:42.359740] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:21:42.849274] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:21:45.020366] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:21:46.041651] Robot MIT completed SetObjectState!
+[2022-04-20 21:21:47.037424] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:21:48.940530] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:21:50.673920] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:21:53.434323] Robot MIT completed CombinedMove!
+[2022-04-20 21:21:57.203396] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:21:57.245208] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:21:57.714291] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:21:59.991344] Robot MIT completed CombinedMove!
+[2022-04-20 21:22:00.384299] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:22:01.358777] Robot MIT completed SetObjectState!
+[2022-04-20 21:22:03.104246] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:22:04.798875] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:22:14.444510] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:22:14.444543] Robot ABB1200 has finished!
+[2022-04-20 21:22:18.194909] Robot MIT completed CombinedMove!
+[2022-04-20 21:22:18.705730] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:22:19.791968] Robot MIT completed SetObjectState!
+[2022-04-20 21:22:21.590242] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:22:24.007943] Robot MIT completed CombinedMove!
+[2022-04-20 21:22:24.007992] Robot MIT has finished!
+
+[2022-04-20 21:24:54.216410] Robot ABB1200 has finished!
+[2022-04-20 21:24:54.617155] Robot MIT has finished!
+[2022-04-20 21:24:54.817472] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:24:55.328784] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:24:55.717718] Robot UR5 completed Move!
+[2022-04-20 21:24:56.635327] Robot UR5 completed SetObjectState!
+[2022-04-20 21:24:58.870974] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:01.653496] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:02.164325] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:25:03.176830] Robot UR5 completed SetObjectState!
+[2022-04-20 21:25:05.246418] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:06.855097] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:06.897091] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:08.833142] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:09.864385] Robot UR5 completed SetObjectState!
+[2022-04-20 21:25:12.110918] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:14.365280] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:14.876114] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:25:15.858096] Robot UR5 completed SetObjectState!
+[2022-04-20 21:25:18.085169] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:19.731327] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:19.778269] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:21.629674] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:22.734354] Robot UR5 completed SetObjectState!
+[2022-04-20 21:25:24.883353] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:27.195630] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:27.706497] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:25:28.752396] Robot UR5 completed SetObjectState!
+[2022-04-20 21:25:30.949893] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:25:32.673196] Robot UR5 completed CombinedMove!
+[2022-04-20 21:25:32.673244] Robot UR5 has finished!
+
+[2022-04-20 21:27:06.622352] Robot ABB1200 has finished!
+[2022-04-20 21:27:07.223350] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:07.223453] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:27:07.728496] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:27:09.738573] Robot UR5 completed Move!
+[2022-04-20 21:27:09.866804] Robot MIT completed CombinedMove!
+[2022-04-20 21:27:10.791479] Robot UR5 completed SetObjectState!
+[2022-04-20 21:27:11.721221] Robot MIT completed SetObjectState!
+[2022-04-20 21:27:13.857809] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:15.584833] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:27:18.094525] Robot UR5 completed CombinedMove!
+[2022-04-20 21:27:18.605375] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:27:20.022289] Robot UR5 completed SetObjectState!
+[2022-04-20 21:27:23.297059] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:25.053316] Robot UR5 completed CombinedMove!
+[2022-04-20 21:27:28.890192] Robot MIT completed CombinedMove!
+[2022-04-20 21:27:28.911087] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:29.410781] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:27:30.829643] Robot UR5 completed CombinedMove!
+[2022-04-20 21:27:31.385373] Robot MIT completed SetObjectState!
+[2022-04-20 21:27:32.264747] Robot UR5 completed SetObjectState!
+[2022-04-20 21:27:33.888631] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:27:36.046810] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:39.122603] Robot MIT completed CombinedMove!
+[2022-04-20 21:27:41.329623] Robot UR5 completed CombinedMove!
+[2022-04-20 21:27:41.351216] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:27:41.836832] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:27:44.161581] Robot MIT completed CombinedMove!
+[2022-04-20 21:27:45.338725] Robot UR5 completed SetObjectState!
+[2022-04-20 21:27:46.326974] Robot MIT completed SetObjectState!
+[2022-04-20 21:27:48.429478] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:50.197463] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:27:51.836464] Robot UR5 completed CombinedMove!
+[2022-04-20 21:27:55.627836] Robot MIT completed CombinedMove!
+[2022-04-20 21:27:55.659733] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:27:56.140564] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:28:00.187695] Robot MIT completed SetObjectState!
+[2022-04-20 21:28:01.918023] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:28:04.754195] Robot MIT completed CombinedMove!
+[2022-04-20 21:28:04.795114] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:28:07.500178] Robot MIT completed CombinedMove!
+[2022-04-20 21:28:08.552113] Robot MIT completed SetObjectState!
+[2022-04-20 21:28:10.358386] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:28:13.919659] Robot MIT completed CombinedMove!
+[2022-04-20 21:28:14.426365] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:28:15.455171] Robot MIT completed SetObjectState!
+[2022-04-20 21:28:17.212146] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:28:19.672478] Robot MIT completed CombinedMove!
+[2022-04-20 21:28:19.674900] Robot MIT has finished!
+
+[2022-04-20 21:31:05.670225] Robot ABB1200 has finished!
+[2022-04-20 21:31:06.071394] Robot MIT has finished!
+[2022-04-20 21:31:06.271708] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:31:06.782536] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:31:07.171212] Robot UR5 completed Move!
+[2022-04-20 21:31:08.259119] Robot UR5 completed SetObjectState!
+[2022-04-20 21:31:10.597300] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:31:13.124021] Robot UR5 completed CombinedMove!
+[2022-04-20 21:31:13.634891] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:31:14.974565] Robot UR5 completed SetObjectState!
+[2022-04-20 21:31:17.193995] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:31:18.786317] Robot UR5 completed CombinedMove!
+[2022-04-20 21:31:18.817782] Robot UR5 completed SetRobotPreset!
+
+[2022-04-20 21:33:16.143436] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:33:16.143533] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:33:16.146059] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:33:16.650409] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:33:18.757974] Robot UR5 completed Move!
+[2022-04-20 21:33:18.925207] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:33:21.431268] Robot MIT completed CombinedMove!
+[2022-04-20 21:33:22.039839] Robot UR5 completed SetObjectState!
+[2022-04-20 21:33:22.803536] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:33:23.585013] Robot MIT completed SetObjectState!
+[2022-04-20 21:33:25.489257] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:33:26.993752] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:33:29.366769] Robot UR5 completed CombinedMove!
+[2022-04-20 21:33:29.869272] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:33:30.869547] Robot UR5 completed SetObjectState!
+[2022-04-20 21:33:33.480747] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:33:35.779375] Robot UR5 completed CombinedMove!
+[2022-04-20 21:33:37.981714] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:33:42.416576] Robot MIT completed CombinedMove!
+[2022-04-20 21:33:42.445602] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:33:42.917681] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:33:43.913045] Robot MIT completed SetObjectState!
+[2022-04-20 21:33:46.663320] Robot UR5 completed CombinedMove!
+[2022-04-20 21:33:47.702346] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:33:49.254578] Robot UR5 completed SetObjectState!
+[2022-04-20 21:33:52.792879] Robot MIT completed CombinedMove!
+[2022-04-20 21:33:55.058074] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:33:58.451463] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:33:58.537213] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:33:58.960892] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:34:01.361065] Robot MIT completed CombinedMove!
+[2022-04-20 21:34:01.898292] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:34:02.890960] Robot MIT completed SetObjectState!
+[2022-04-20 21:34:04.859668] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:34:06.745869] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:34:08.931118] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:34:11.116177] Robot UR5 completed CombinedMove!
+[2022-04-20 21:34:11.132888] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:34:11.620084] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:34:13.998507] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:34:14.643802] Robot UR5 completed SetObjectState!
+[2022-04-20 21:34:15.565011] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:34:17.843445] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:34:19.459593] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:34:21.235785] Robot UR5 completed CombinedMove!
+[2022-04-20 21:34:25.555142] Robot MIT completed CombinedMove!
+[2022-04-20 21:34:26.059650] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:34:27.125449] Robot MIT completed SetObjectState!
+[2022-04-20 21:34:27.160662] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:34:34.133037] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:34:37.606825] Robot MIT completed CombinedMove!
+[2022-04-20 21:34:40.726739] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:34:40.777678] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:34:41.229064] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:34:43.520997] Robot MIT completed CombinedMove!
+[2022-04-20 21:34:44.074298] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:34:44.941899] Robot MIT completed SetObjectState!
+[2022-04-20 21:34:46.604979] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:34:48.260968] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:34:50.567652] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:34:54.149408] Robot MIT completed CombinedMove!
+[2022-04-20 21:34:54.187401] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:34:54.671642] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:34:56.947994] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:34:57.511956] Robot MIT completed SetObjectState!
+[2022-04-20 21:34:58.508302] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:35:00.346476] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:35:02.839009] Robot MIT completed CombinedMove!
+[2022-04-20 21:35:02.839097] Robot MIT has finished!
+[2022-04-20 21:35:04.803104] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:35:08.007960] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:35:08.514676] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:35:09.714915] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:35:11.571778] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:35:13.945926] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:35:13.948707] Robot ABB1200 has finished!
+
+
+[2022-04-20 21:37:17.127741] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:37:17.127841] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:37:17.130873] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:37:17.634907] Robot UR5 completed SetVacuumOn!
+[2022-04-20 21:37:19.868875] Robot UR5 completed Move!
+[2022-04-20 21:37:20.001431] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:37:22.603114] Robot MIT completed CombinedMove!
+[2022-04-20 21:37:23.101672] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:37:24.104118] Robot MIT completed SetObjectState!
+[2022-04-20 21:37:24.965396] Robot UR5 completed SetObjectState!
+[2022-04-20 21:37:26.709070] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:37:29.104951] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:37:36.680662] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:37:37.186644] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:37:38.832769] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:37:39.914998] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:37:41.761721] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:37:44.300187] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:37:49.965458] Robot MIT completed CombinedMove!
+[2022-04-20 21:37:49.998619] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:37:50.471824] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:37:52.831259] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:37:53.599154] Robot MIT completed SetObjectState!
+[2022-04-20 21:37:54.662153] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:37:56.455177] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:37:58.170269] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:38:00.632414] Robot MIT completed CombinedMove!
+[2022-04-20 21:38:04.177031] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:38:04.177707] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:38:04.679032] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:38:07.040147] Robot MIT completed CombinedMove!
+[2022-04-20 21:38:07.649632] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:38:08.681346] Robot MIT completed SetObjectState!
+[2022-04-20 21:38:10.582441] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:38:12.274568] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:38:15.127479] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:38:17.659391] Robot UR5 completed CombinedMove!
+[2022-04-20 21:38:17.959461] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:38:18.163006] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:38:19.387259] Robot UR5 completed SetObjectState!
+[2022-04-20 21:38:22.402070] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:38:24.430970] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:38:25.483962] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:38:27.391447] Robot UR5 completed CombinedMove!
+[2022-04-20 21:38:29.511653] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:38:29.545367] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:38:33.472058] Robot MIT completed CombinedMove!
+[2022-04-20 21:38:33.978121] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:38:35.460462] Robot MIT completed SetObjectState!
+[2022-04-20 21:38:38.143223] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:38:40.074664] Robot UR5 completed CombinedMove!
+[2022-04-20 21:38:42.384402] Robot MIT completed CombinedMove!
+[2022-04-20 21:38:43.457694] Robot UR5 completed SetObjectState!
+[2022-04-20 21:38:50.017808] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:38:50.040148] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:38:50.524963] Robot ABB1200 completed SetVacuumOff!
+[2022-04-20 21:38:52.905599] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:38:53.955704] Robot ABB1200 completed SetObjectState!
+[2022-04-20 21:38:56.690933] Robot MIT completed CombinedMove!
+[2022-04-20 21:38:58.134405] Robot ABB1200 completed SetRobotPreset!
+[2022-04-20 21:38:59.140391] Robot MIT completed SetObjectState!
+[2022-04-20 21:39:01.209096] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:39:03.735141] Robot ABB1200 completed CombinedMove!
+[2022-04-20 21:39:03.735177] Robot ABB1200 has finished!
+[2022-04-20 21:39:09.404094] Robot MIT completed CombinedMove!
+[2022-04-20 21:39:09.917181] Robot MIT completed SetVacuumOff!
+[2022-04-20 21:39:11.165841] Robot MIT completed SetObjectState!
+[2022-04-20 21:39:13.036440] Robot MIT completed SetRobotPreset!
+[2022-04-20 21:39:16.112119] Robot MIT completed CombinedMove!
+[2022-04-20 21:39:16.112172] Robot MIT has finished!
+[2022-04-20 21:39:18.371740] Robot UR5 completed CombinedMove!
+[2022-04-20 21:39:18.882383] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:39:20.060040] Robot UR5 completed SetObjectState!
+[2022-04-20 21:39:22.327483] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:39:24.000936] Robot UR5 completed CombinedMove!
+[2022-04-20 21:39:24.037670] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:39:25.911463] Robot UR5 completed CombinedMove!
+[2022-04-20 21:39:27.114046] Robot UR5 completed SetObjectState!
+[2022-04-20 21:39:29.434560] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:39:31.668899] Robot UR5 completed CombinedMove!
+[2022-04-20 21:39:32.179385] Robot UR5 completed SetVacuumOff!
+[2022-04-20 21:39:33.280038] Robot UR5 completed SetObjectState!
+[2022-04-20 21:39:35.632825] Robot UR5 completed SetRobotPreset!
+[2022-04-20 21:39:37.235648] Robot UR5 completed CombinedMove!
+[2022-04-20 21:39:37.235680] Robot UR5 has finished!
+
+[2022-04-22 10:49:03.011604] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:49:03.011699] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:49:03.012544] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:49:06.596974] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:49:07.460581] Robot UR5 completed SetObjectState!
+[2022-04-22 10:49:07.971455] Robot UR5 completed SetVacuumOn!
+[2022-04-22 10:49:08.356534] Robot MIT completed SetObjectState!
+[2022-04-22 10:49:13.494485] Robot UR5 completed Move!
+[2022-04-22 10:49:15.326431] Robot UR5 completed SetObjectState!
+[2022-04-22 10:49:15.768938] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:49:17.715070] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:49:18.220767] Robot MIT completed CombinedMove!
+[2022-04-22 10:49:18.712070] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:49:19.973442] Robot MIT completed SetObjectState!
+[2022-04-22 10:49:21.595566] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:49:21.595649] Robot UR5 completed CombinedMove!
+[2022-04-22 10:49:22.106491] Robot UR5 completed SetVacuumOff!
+[2022-04-22 10:49:23.368233] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:49:35.304588] Robot UR5 completed SetObjectState!
+[2022-04-22 10:49:40.483799] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:49:56.053805] Robot UR5 completed CombinedMove!
+[2022-04-22 10:50:06.578167] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:50:10.247520] Robot MIT completed CombinedMove!
+[2022-04-22 10:50:10.758043] Robot MIT completed SetVacuumOff!
+[2022-04-22 10:50:19.410338] Robot MIT completed SetObjectState!
+[2022-04-22 10:50:30.821383] Robot UR5 completed SetObjectState!
+[2022-04-22 10:50:32.360723] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:50:44.662423] Robot UR5 completed CombinedMove!
+[2022-04-22 10:50:55.197739] Robot UR5 completed SetObjectState!
+[2022-04-22 10:50:56.703847] Robot MIT completed CombinedMove!
+[2022-04-22 10:51:04.092379] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:51:04.114550] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:51:04.180233] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:51:04.691063] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 10:51:06.455697] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:51:07.779508] Robot MIT completed SetObjectState!
+[2022-04-22 10:51:09.366477] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:51:14.968826] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:51:15.176686] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:51:16.770332] Robot MIT completed CombinedMove!
+[2022-04-22 10:51:17.276534] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:51:18.143061] Robot MIT completed SetObjectState!
+[2022-04-22 10:51:19.380515] Robot UR5 completed CombinedMove!
+[2022-04-22 10:51:19.891391] Robot UR5 completed SetVacuumOff!
+[2022-04-22 10:51:23.129614] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:51:23.640386] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:51:24.114820] Robot UR5 completed SetObjectState!
+[2022-04-22 10:51:27.757859] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:51:29.623425] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:51:33.997776] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:51:36.299861] Robot UR5 completed CombinedMove!
+[2022-04-22 10:51:41.189820] Robot MIT completed CombinedMove!
+[2022-04-22 10:51:41.700708] Robot MIT completed SetVacuumOff!
+[2022-04-22 10:51:46.027773] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:51:47.105574] Robot MIT completed SetObjectState!
+[2022-04-22 10:51:57.903572] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:51:58.909184] Robot UR5 completed SetObjectState!
+[2022-04-22 10:52:13.436700] Robot UR5 completed CombinedMove!
+[2022-04-22 10:52:14.848719] Robot MIT completed CombinedMove!
+[2022-04-22 10:52:19.385867] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:52:19.473149] Robot UR5 completed SetObjectState!
+[2022-04-22 10:52:22.506433] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:52:22.507205] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:52:23.017786] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 10:52:23.524102] Robot MIT completed SetObjectState!
+[2022-04-22 10:52:24.836975] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:52:28.380104] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:52:28.892796] Robot MIT completed CombinedMove!
+[2022-04-22 10:52:32.438492] Robot MIT completed SetObjectState!
+[2022-04-22 10:52:34.536134] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:52:34.563000] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:52:34.788705] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:52:37.171300] Robot UR5 completed CombinedMove!
+[2022-04-22 10:52:37.681823] Robot UR5 completed SetVacuumOff!
+[2022-04-22 10:52:39.878436] Robot UR5 completed SetObjectState!
+[2022-04-22 10:52:44.235939] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:52:46.345852] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:52:55.207837] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:52:58.872907] Robot UR5 completed CombinedMove!
+[2022-04-22 10:52:58.872953] Robot UR5 has finished!
+[2022-04-22 10:52:58.965239] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:53:00.832778] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:53:01.249192] Robot MIT completed CombinedMove!
+[2022-04-22 10:53:01.760034] Robot MIT completed SetVacuumOff!
+[2022-04-22 10:53:10.469458] Robot MIT completed SetObjectState!
+[2022-04-22 10:53:21.078299] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:53:33.587677] Robot MIT completed CombinedMove!
+[2022-04-22 10:53:33.587713] Robot MIT has finished!
+[2022-04-22 10:53:39.669248] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:53:40.180054] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 10:53:41.273344] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:53:42.993496] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:53:47.583281] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:53:47.583333] Robot ABB1200 has finished!
+
+[2022-04-22 10:55:49.783610] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:55:49.783706] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:55:49.784596] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:55:53.302653] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:55:54.128178] Robot UR5 completed SetObjectState!
+[2022-04-22 10:55:54.639058] Robot UR5 completed SetVacuumOn!
+[2022-04-22 10:55:55.024572] Robot MIT completed SetObjectState!
+[2022-04-22 10:55:55.910070] Robot UR5 completed Move!
+[2022-04-22 10:55:56.969918] Robot UR5 completed SetObjectState!
+[2022-04-22 10:55:59.234351] Robot UR5 completed SetRobotPreset!
+[2022-04-22 10:55:59.732919] Robot MIT completed CombinedMove!
+[2022-04-22 10:55:59.748752] Robot ABB1200 completed CombinedMove!
+[2022-04-22 10:56:00.874759] Robot MIT completed SetObjectState!
+[2022-04-22 10:56:01.717931] Robot ABB1200 completed SetObjectState!
+[2022-04-22 10:56:03.398152] Robot MIT completed SetRobotPreset!
+[2022-04-22 10:56:03.398671] Robot UR5 completed CombinedMove!
+[2022-04-22 10:56:03.909434] Robot UR5 completed SetVacuumOff!
+[2022-04-22 10:56:05.046981] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 10:57:06.165411] Robot UR5 completed SetObjectState!
+
+[2022-04-22 11:01:02.648164] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:01:02.648289] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:01:02.651257] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:01:03.152773] Robot UR5 completed SetVacuumOn!
+[2022-04-22 11:01:05.254501] Robot UR5 completed Move!
+[2022-04-22 11:01:05.442298] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:01:07.930553] Robot MIT completed CombinedMove!
+[2022-04-22 11:01:08.364920] Robot UR5 completed SetObjectState!
+[2022-04-22 11:01:09.279743] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:01:10.166826] Robot MIT completed SetObjectState!
+[2022-04-22 11:01:12.371071] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:01:14.135852] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:01:16.617543] Robot UR5 completed CombinedMove!
+[2022-04-22 11:01:17.127073] Robot UR5 completed SetVacuumOff!
+
+[2022-04-22 11:10:43.003575] Robot UR5 has finished!
+[2022-04-22 11:10:53.011583] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:10:53.011682] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:10:55.613101] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:10:56.429105] Robot MIT completed SetObjectState!
+[2022-04-22 11:11:02.810985] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:11:04.157562] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:11:04.559489] Robot MIT completed CombinedMove!
+[2022-04-22 11:11:05.881069] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:11:06.816009] Robot MIT completed SetObjectState!
+[2022-04-22 11:11:14.670019] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:11:15.318053] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:11:15.823643] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:11:16.918733] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:11:18.677134] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:11:23.585262] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:11:23.622386] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:11:26.231961] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:11:27.479703] Robot MIT completed CombinedMove!
+[2022-04-22 11:11:27.990449] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:11:31.249414] Robot MIT completed SetObjectState!
+[2022-04-22 11:11:33.036835] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:11:33.582263] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:11:34.819624] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:11:36.557584] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:11:36.564687] Robot MIT completed CombinedMove!
+[2022-04-22 11:11:42.100735] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:11:44.032536] Robot MIT completed SetObjectState!
+[2022-04-22 11:11:44.383846] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:11:44.898686] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:11:45.881464] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:11:47.620848] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:11:48.148046] Robot MIT completed CombinedMove!
+[2022-04-22 11:11:51.881139] Robot MIT completed SetObjectState!
+[2022-04-22 11:11:53.714619] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:11:53.714824] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:11:54.058300] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:11:56.281644] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:11:57.788602] Robot MIT completed CombinedMove!
+[2022-04-22 11:11:58.298974] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:12:01.021265] Robot MIT completed SetObjectState!
+[2022-04-22 11:12:02.987697] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:12:03.540766] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:12:04.651340] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:12:06.415018] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:12:06.433623] Robot MIT completed CombinedMove!
+[2022-04-22 11:12:10.852344] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:12:13.311018] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:12:13.406317] Robot MIT completed SetObjectState!
+[2022-04-22 11:12:13.818933] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:12:15.017117] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:12:16.846492] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:12:17.377741] Robot MIT completed CombinedMove!
+[2022-04-22 11:12:20.321011] Robot MIT completed SetObjectState!
+[2022-04-22 11:12:22.238347] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:12:22.250290] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:12:22.250350] Robot ABB1200 has finished!
+[2022-04-22 11:12:28.485094] Robot MIT completed CombinedMove!
+[2022-04-22 11:12:28.995860] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:12:30.002212] Robot MIT completed SetObjectState!
+[2022-04-22 11:12:31.576216] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:12:34.518887] Robot MIT completed CombinedMove!
+[2022-04-22 11:12:34.518922] Robot MIT has finished!
+
+[2022-04-22 11:14:42.763618] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:14:42.763702] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:14:42.764489] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:14:46.119412] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:14:46.885861] Robot UR5 completed SetObjectState!
+[2022-04-22 11:14:47.396689] Robot UR5 completed SetVacuumOn!
+[2022-04-22 11:14:47.655827] Robot MIT completed SetObjectState!
+[2022-04-22 11:14:48.579885] Robot UR5 completed Move!
+[2022-04-22 11:14:49.536498] Robot UR5 completed SetObjectState!
+[2022-04-22 11:14:51.635621] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:14:52.139193] Robot MIT completed CombinedMove!
+[2022-04-22 11:14:52.165976] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:14:53.114623] Robot MIT completed SetObjectState!
+[2022-04-22 11:14:53.963396] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:14:55.514800] Robot UR5 completed CombinedMove!
+[2022-04-22 11:14:55.514929] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:14:56.020691] Robot UR5 completed SetVacuumOff!
+[2022-04-22 11:14:57.096164] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:14:58.589996] Robot UR5 completed SetObjectState!
+[2022-04-22 11:15:04.146458] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:15:06.558006] Robot UR5 completed CombinedMove!
+[2022-04-22 11:15:06.625566] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:15:08.677758] Robot UR5 completed SetObjectState!
+[2022-04-22 11:15:08.803620] Robot MIT completed CombinedMove!
+[2022-04-22 11:15:09.324295] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:15:10.362136] Robot MIT completed SetObjectState!
+[2022-04-22 11:15:10.830468] Robot UR5 completed CombinedMove!
+[2022-04-22 11:15:11.902183] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:15:12.847834] Robot UR5 completed SetObjectState!
+[2022-04-22 11:15:14.944574] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:15:15.489503] Robot MIT completed CombinedMove!
+[2022-04-22 11:15:15.707240] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:15:16.928958] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:15:17.439823] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:15:18.270064] Robot MIT completed SetObjectState!
+[2022-04-22 11:15:19.446108] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:15:21.371498] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:15:22.309071] Robot MIT completed CombinedMove!
+[2022-04-22 11:15:23.511709] Robot MIT completed SetObjectState!
+[2022-04-22 11:15:25.991333] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:15:25.994018] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:15:26.745053] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:15:28.824599] Robot UR5 completed CombinedMove!
+[2022-04-22 11:15:28.875732] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:15:29.336861] Robot UR5 completed SetVacuumOff!
+[2022-04-22 11:15:30.495193] Robot UR5 completed SetObjectState!
+[2022-04-22 11:15:32.551687] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:15:33.089341] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:15:34.106630] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:15:35.663253] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:15:35.663594] Robot UR5 completed CombinedMove!
+[2022-04-22 11:15:37.224905] Robot MIT completed CombinedMove!
+[2022-04-22 11:15:37.735479] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:15:38.473183] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:15:39.519545] Robot MIT completed SetObjectState!
+[2022-04-22 11:15:41.788627] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:15:42.661205] Robot UR5 completed SetObjectState!
+[2022-04-22 11:15:47.919521] Robot MIT completed CombinedMove!
+[2022-04-22 11:15:47.984477] Robot UR5 completed CombinedMove!
+[2022-04-22 11:15:48.000629] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:15:49.646076] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:15:49.722476] Robot UR5 completed SetObjectState!
+[2022-04-22 11:15:50.156648] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:15:52.478922] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:15:53.397937] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:15:54.240477] Robot MIT completed SetObjectState!
+[2022-04-22 11:15:55.996154] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:15:58.665952] Robot MIT completed CombinedMove!
+[2022-04-22 11:15:59.875434] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:15:59.963308] Robot MIT completed SetObjectState!
+[2022-04-22 11:16:00.093361] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:16:01.715840] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:16:02.636117] Robot UR5 completed CombinedMove!
+[2022-04-22 11:16:03.143423] Robot UR5 completed SetVacuumOff!
+[2022-04-22 11:16:03.995866] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:16:04.863694] Robot UR5 completed SetObjectState!
+[2022-04-22 11:16:07.298913] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:16:07.808271] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:16:08.847766] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:16:10.557166] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:16:10.561728] Robot UR5 completed CombinedMove!
+[2022-04-22 11:16:10.563260] Robot UR5 has finished!
+[2022-04-22 11:16:14.062703] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:16:14.586487] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:16:15.706318] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:16:17.331915] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:16:20.138720] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:16:20.138758] Robot ABB1200 has finished!
+
+
+[2022-04-22 11:31:59.991613] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:31:59.991709] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:31:59.992369] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:32:03.626491] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:32:04.448301] Robot UR5 completed SetObjectState!
+[2022-04-22 11:32:04.958859] Robot UR5 completed SetVacuumOn!
+[2022-04-22 11:32:05.333040] Robot MIT completed SetObjectState!
+[2022-04-22 11:32:05.620018] Robot UR5 completed Move!
+[2022-04-22 11:32:07.870926] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:32:08.472878] Robot UR5 completed SetObjectState!
+[2022-04-22 11:32:09.327227] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:32:11.424779] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:32:12.008133] Robot MIT completed CombinedMove!
+[2022-04-22 11:32:13.169712] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:32:14.538681] Robot MIT completed SetObjectState!
+[2022-04-22 11:32:16.103073] Robot UR5 completed CombinedMove!
+[2022-04-22 11:32:16.613682] Robot UR5 completed SetVacuumOff!
+[2022-04-22 11:32:24.504636] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:32:25.574681] Robot UR5 completed SetObjectState!
+[2022-04-22 11:32:31.679147] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:32:34.106593] Robot UR5 completed CombinedMove!
+[2022-04-22 11:32:34.154450] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:32:36.500115] Robot MIT completed CombinedMove!
+[2022-04-22 11:32:36.576641] Robot UR5 completed SetObjectState!
+[2022-04-22 11:32:37.016589] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:32:38.239643] Robot MIT completed SetObjectState!
+[2022-04-22 11:32:38.660889] Robot UR5 completed CombinedMove!
+[2022-04-22 11:32:39.944770] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:32:40.901908] Robot UR5 completed SetObjectState!
+[2022-04-22 11:32:44.515506] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:32:44.747818] Robot MIT completed CombinedMove!
+[2022-04-22 11:32:44.954772] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:32:46.595748] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:32:47.106581] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 11:32:47.871826] Robot MIT completed SetObjectState!
+[2022-04-22 11:32:49.094259] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:32:52.313985] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:32:52.853966] Robot MIT completed CombinedMove!
+[2022-04-22 11:32:57.095686] Robot MIT completed SetObjectState!
+[2022-04-22 11:32:59.270826] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:32:59.271065] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:33:02.117278] Robot UR5 completed CombinedMove!
+[2022-04-22 11:33:02.628141] Robot UR5 completed SetVacuumOff!
+[2022-04-22 11:33:02.857495] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:33:04.008113] Robot UR5 completed SetObjectState!
+[2022-04-22 11:33:07.013242] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:33:08.169657] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:33:10.406502] Robot UR5 completed CombinedMove!
+[2022-04-22 11:33:12.168490] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:33:14.396324] Robot UR5 completed SetObjectState!
+[2022-04-22 11:33:14.838281] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:33:16.005602] Robot ABB1200 completed SetObjectState!
+
+[2022-04-22 11:43:36.839683] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:43:36.839805] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:43:36.841134] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:43:40.689935] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:43:41.565353] Robot UR5 completed SetObjectState!
+[2022-04-22 11:43:42.076212] Robot UR5 completed SetVacuumOn!
+[2022-04-22 11:43:42.655059] Robot MIT completed SetObjectState!
+[2022-04-22 11:43:42.942789] Robot UR5 completed Move!
+[2022-04-22 11:43:48.056629] Robot UR5 completed SetObjectState!
+[2022-04-22 11:43:49.072577] Robot ABB1200 completed CombinedMove!
+[2022-04-22 11:43:51.523123] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:43:52.044778] Robot MIT completed CombinedMove!
+[2022-04-22 11:43:52.569653] Robot ABB1200 completed SetObjectState!
+[2022-04-22 11:43:54.026982] Robot MIT completed SetObjectState!
+[2022-04-22 11:43:55.679898] Robot UR5 completed CombinedMove!
+[2022-04-22 11:43:55.680384] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 11:43:56.186072] Robot UR5 completed SetVacuumOff!
+[2022-04-22 11:43:57.395487] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:44:07.494443] Robot UR5 completed SetObjectState!
+[2022-04-22 11:44:13.378417] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:44:15.784668] Robot UR5 completed CombinedMove!
+[2022-04-22 11:44:15.858400] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:44:18.046111] Robot MIT completed CombinedMove!
+[2022-04-22 11:44:18.155314] Robot UR5 completed SetObjectState!
+[2022-04-22 11:44:18.555988] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:44:19.720141] Robot MIT completed SetObjectState!
+[2022-04-22 11:44:20.197955] Robot UR5 completed CombinedMove!
+[2022-04-22 11:44:21.541399] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:44:22.545594] Robot UR5 completed SetObjectState!
+[2022-04-22 11:44:26.101999] Robot UR5 completed SetRobotPreset!
+[2022-04-22 11:44:26.114649] Robot MIT completed CombinedMove!
+[2022-04-22 11:44:26.611482] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:44:29.680099] Robot MIT completed SetObjectState!
+[2022-04-22 11:44:33.565398] Robot MIT completed CombinedMove!
+[2022-04-22 11:44:35.003633] Robot MIT completed SetObjectState!
+[2022-04-22 11:44:37.298690] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:44:43.736438] Robot MIT completed CombinedMove!
+[2022-04-22 11:44:44.246484] Robot MIT completed SetVacuumOff!
+[2022-04-22 11:44:45.785541] Robot MIT completed SetObjectState!
+[2022-04-22 11:44:48.021114] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:44:51.579331] Robot MIT completed CombinedMove!
+[2022-04-22 11:44:51.701262] Robot MIT completed SetRobotPreset!
+[2022-04-22 11:44:54.790823] Robot MIT completed SetObjectState!
+[2022-04-22 11:44:59.056233] Robot MIT completed CombinedMove!
+[2022-04-22 11:45:00.530856] Robot MIT completed SetObjectState!
+[2022-04-22 11:45:02.936000] Robot MIT completed SetRobotPreset!
+
+[2022-04-22 12:00:40.892767] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 12:00:40.892884] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:00:40.894315] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:00:44.031317] Robot ABB1200 completed SetObjectState!
+[2022-04-22 12:00:44.772531] Robot UR5 completed SetObjectState!
+[2022-04-22 12:00:45.283314] Robot UR5 completed SetVacuumOn!
+[2022-04-22 12:00:45.549020] Robot MIT completed SetObjectState!
+
+[2022-04-22 12:29:39.849674] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 12:29:39.849756] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:29:39.850287] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:29:43.433742] Robot ABB1200 completed SetObjectState!
+[2022-04-22 12:29:44.220688] Robot UR5 completed SetObjectState!
+[2022-04-22 12:29:44.731508] Robot UR5 completed SetVacuumOn!
+[2022-04-22 12:29:45.099098] Robot MIT completed SetObjectState!
+[2022-04-22 12:29:45.832424] Robot UR5 completed Move!
+[2022-04-22 12:29:47.915561] Robot UR5 completed SetObjectState!
+[2022-04-22 12:29:48.380152] Robot ABB1200 completed CombinedMove!
+[2022-04-22 12:29:50.162534] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:29:50.683933] Robot MIT completed CombinedMove!
+[2022-04-22 12:29:51.147155] Robot ABB1200 completed SetObjectState!
+[2022-04-22 12:29:52.456513] Robot MIT completed SetObjectState!
+[2022-04-22 12:29:54.657449] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 12:29:54.659628] Robot UR5 completed CombinedMove!
+[2022-04-22 12:29:55.170441] Robot UR5 completed SetVacuumOff!
+[2022-04-22 12:29:56.392280] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:29:57.489388] Robot UR5 completed SetObjectState!
+[2022-04-22 12:30:11.059937] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:30:13.460486] Robot UR5 completed CombinedMove!
+[2022-04-22 12:30:13.483490] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:30:15.944753] Robot MIT completed CombinedMove!
+[2022-04-22 12:30:16.011070] Robot UR5 completed SetObjectState!
+[2022-04-22 12:30:16.457736] Robot MIT completed SetVacuumOff!
+[2022-04-22 12:30:17.719776] Robot MIT completed SetObjectState!
+[2022-04-22 12:30:18.144977] Robot UR5 completed CombinedMove!
+[2022-04-22 12:30:19.464764] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:30:20.444393] Robot UR5 completed SetObjectState!
+[2022-04-22 12:30:23.667990] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:30:23.983327] Robot MIT completed CombinedMove!
+[2022-04-22 12:30:24.118541] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:30:27.056612] Robot MIT completed SetObjectState!
+[2022-04-22 12:30:31.028492] Robot MIT completed CombinedMove!
+[2022-04-22 12:30:32.378745] Robot MIT completed SetObjectState!
+[2022-04-22 12:30:34.483249] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:30:40.894670] Robot MIT completed CombinedMove!
+[2022-04-22 12:30:41.407469] Robot MIT completed SetVacuumOff!
+[2022-04-22 12:30:42.743703] Robot MIT completed SetObjectState!
+[2022-04-22 12:30:44.955091] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:30:48.433176] Robot MIT completed CombinedMove!
+[2022-04-22 12:30:48.786957] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:30:51.628891] Robot MIT completed SetObjectState!
+[2022-04-22 12:30:55.698060] Robot MIT completed CombinedMove!
+[2022-04-22 12:30:57.030315] Robot MIT completed SetObjectState!
+[2022-04-22 12:30:59.125439] Robot MIT completed SetRobotPreset!
+
+[2022-04-22 12:34:47.884032] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 12:34:47.884131] Robot UR5 completed SetRobotPreset!
+[2022-04-22 12:34:47.885051] Robot MIT completed SetRobotPreset!
+[2022-04-22 12:34:51.926346] Robot ABB1200 completed SetObjectState!
+[2022-04-22 12:34:52.841758] Robot UR5 completed SetObjectState!
+[2022-04-22 12:34:53.352622] Robot UR5 completed SetVacuumOn!
+[2022-04-22 12:34:53.695227] Robot MIT completed SetObjectState!
+
+[2022-04-22 13:00:51.536067] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 13:00:51.536152] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:00:51.536694] Robot MIT completed SetRobotPreset!
+[2022-04-22 13:00:54.841235] Robot ABB1200 completed SetObjectState!
+[2022-04-22 13:00:55.677402] Robot UR5 completed SetObjectState!
+[2022-04-22 13:00:56.188216] Robot UR5 completed SetVacuumOn!
+[2022-04-22 13:00:56.456210] Robot MIT completed SetObjectState!
+[2022-04-22 13:00:57.148528] Robot UR5 completed Move!
+[2022-04-22 13:00:58.920522] Robot ABB1200 completed CombinedMove!
+[2022-04-22 13:00:59.297152] Robot UR5 completed SetObjectState!
+[2022-04-22 13:01:00.078502] Robot ABB1200 completed SetObjectState!
+[2022-04-22 13:01:02.009488] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:01:02.530418] Robot MIT completed CombinedMove!
+[2022-04-22 13:01:03.603440] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 13:01:04.904462] Robot MIT completed SetObjectState!
+[2022-04-22 13:01:06.543893] Robot UR5 completed CombinedMove!
+[2022-04-22 13:01:07.060034] Robot UR5 completed SetVacuumOff!
+[2022-04-22 13:01:08.683416] Robot MIT completed SetRobotPreset!
+[2022-04-22 13:01:09.684381] Robot UR5 completed SetObjectState!
+[2022-04-22 13:01:17.496725] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:01:22.286536] Robot UR5 completed CombinedMove!
+[2022-04-22 13:01:22.997142] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:01:26.235871] Robot MIT completed CombinedMove!
+[2022-04-22 13:01:26.746190] Robot MIT completed SetVacuumOff!
+[2022-04-22 13:01:29.469239] Robot UR5 completed SetObjectState!
+[2022-04-22 13:01:30.327914] Robot MIT completed SetObjectState!
+[2022-04-22 13:01:34.271381] Robot MIT completed SetRobotPreset!
+[2022-04-22 13:01:36.281019] Robot UR5 completed CombinedMove!
+[2022-04-22 13:01:37.656319] Robot UR5 completed SetObjectState!
+[2022-04-22 13:01:41.100253] Robot MIT completed CombinedMove!
+[2022-04-22 13:01:49.339935] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:01:49.361808] Robot MIT completed SetRobotPreset!
+[2022-04-22 13:01:52.066594] Robot ABB1200 completed CombinedMove!
+[2022-04-22 13:01:52.148228] Robot MIT completed SetObjectState!
+[2022-04-22 13:01:52.581367] Robot ABB1200 completed SetVacuumOff!
+[2022-04-22 13:01:54.436422] Robot ABB1200 completed SetObjectState!
+[2022-04-22 13:01:56.184738] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 13:01:56.703004] Robot MIT completed CombinedMove!
+[2022-04-22 13:02:00.605974] Robot MIT completed SetObjectState!
+[2022-04-22 13:02:02.446978] Robot MIT completed SetRobotPreset!
+[2022-04-22 13:02:02.447076] Robot ABB1200 completed CombinedMove!
+[2022-04-22 13:02:04.451156] Robot UR5 completed CombinedMove!
+[2022-04-22 13:02:04.962041] Robot UR5 completed SetVacuumOff!
+[2022-04-22 13:02:05.757168] Robot ABB1200 completed SetRobotPreset!
+[2022-04-22 13:02:06.946969] Robot UR5 completed SetObjectState!
+[2022-04-22 13:02:10.334321] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:02:11.356009] Robot ABB1200 completed SetObjectState!
+[2022-04-22 13:02:13.590962] Robot UR5 completed CombinedMove!
+[2022-04-22 13:02:15.444478] Robot UR5 completed SetRobotPreset!
+[2022-04-22 13:02:17.762197] Robot UR5 completed SetObjectState!
+[2022-04-22 13:02:18.188100] Robot ABB1200 completed CombinedMove!
+[2022-04-22 13:02:19.356084] Robot ABB1200 completed SetObjectState!
+
+[2022-04-22 13:43:06.876461] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 13:43:06.876590] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 13:43:06.877717] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 13:43:10.452289] Robot ABB1200 completed SetObjectState to [['greenCubic12', 'GreenCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:43:11.264662] Robot UR5 completed SetObjectState to [['yellowCubic12', 'yellowCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:43:11.775320] Robot UR5 completed SetVacuumOn to UR5 !
+[2022-04-22 13:43:12.114789] Robot MIT completed SetObjectState to [['purpleCubic01', 'PurpleCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:43:17.473273] Robot UR5 completed Move to ['UR5', 'pose', [0, 0, -10, 0, 0, 0], 'direct', True, True] !
+[2022-04-22 13:43:19.473422] Robot UR5 completed SetObjectState to [['yellowCubic12'], ['Suppressed']] !
+[2022-04-22 13:43:19.922523] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic12_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 13:43:21.851142] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-22 13:43:22.372793] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic01_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 13:43:22.861777] Robot ABB1200 completed SetObjectState to [['greenCubic12'], ['Suppressed']] !
+[2022-04-22 13:43:24.250773] Robot MIT completed SetObjectState to [['purpleCubic01'], ['Suppressed']] !
+[2022-04-22 13:43:25.917750] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-22 13:43:25.938456] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce01_Up02', 'yellowCubicPalce01'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 13:43:26.449269] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-22 13:43:27.750098] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-22 13:43:31.606772] Robot UR5 completed SetObjectState to [['yellowCubicInTray03'], ['Ready']] !
+[2022-04-22 13:43:40.299404] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 13:43:45.273048] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 13:43:47.508880] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce03_Up02', 'purpleCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 13:43:47.562336] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 13:43:48.019805] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-22 13:43:52.081957] Robot MIT completed SetObjectState to [['PurpleCubicInTray03'], ['Ready']] !
+[2022-04-22 13:43:55.833449] Robot UR5 completed SetObjectState to [['yellowCubic11', 'yellowCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:43:57.452722] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 13:44:03.171718] Robot UR5 completed CombinedMove to ['UR5', ['target', 'target', 'pose'], ['ur5_vaccum_home', 'yellowCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 13:44:03.802554] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'MitHome'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 13:44:09.508416] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 13:44:09.564965] Robot UR5 completed SetObjectState to [['yellowCubic11'], ['Suppressed']] !
+[2022-04-22 13:44:12.759111] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'greenCubicPalce03_Up02', 'greenCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 13:44:12.759647] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-22 13:44:13.270559] Robot ABB1200 completed SetVacuumOff to ABB1200 !
+[2022-04-22 13:44:13.864333] Robot MIT completed SetObjectState to [['purpleCubic02', 'PurpleCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:44:14.775666] Robot ABB1200 completed SetObjectState to [['GreenCubicInTray03'], ['Ready']] !
+[2022-04-22 13:44:17.289847] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 13:44:21.062591] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic02_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 13:44:23.151406] Robot MIT completed SetObjectState to [['purpleCubic02'], ['Suppressed']] !
+[2022-04-22 13:44:25.056345] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-22 13:44:25.081867] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'abb_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 13:44:27.078159] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce02_Up02', 'yellowCubicPalce02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 13:44:27.588775] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-22 13:44:28.436654] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 13:44:29.855685] Robot UR5 completed SetObjectState to [['yellowCubicInTray02'], ['Ready']] !
+[2022-04-22 13:44:33.008417] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 13:44:33.990341] Robot ABB1200 completed SetObjectState to [['greenCubic11', 'GreenCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:44:36.195103] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 13:44:38.259629] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 13:44:40.370792] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 13:44:40.883845] Robot UR5 completed SetObjectState to [['yellowCubic10', 'yellowCubicInTray01'], ['Ready', 'Suppressed']] !
+[2022-04-22 13:44:41.876026] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce02_Up02', 'purpleCubicPlace02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 13:44:41.982636] Robot ABB1200 completed SetObjectState to [['greenCubic11'], ['Suppressed']] !
+[2022-04-22 13:44:42.395681] Robot MIT completed SetVacuumOff to MIT !
+
+[2022-04-22 14:39:33.168458] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 14:39:33.168539] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:39:33.169088] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 14:39:36.478897] Robot ABB1200 completed SetObjectState to [['greenCubic12', 'GreenCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:39:37.279339] Robot UR5 completed SetObjectState to [['yellowCubic12', 'yellowCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:39:37.790141] Robot UR5 completed SetVacuumOn to UR5 !
+[2022-04-22 14:39:38.057200] Robot MIT completed SetObjectState to [['purpleCubic01', 'PurpleCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:39:38.766580] Robot UR5 completed Move to ['UR5', 'pose', [0, 0, -10, 0, 0, 0], 'direct', True, True] !
+[2022-04-22 14:39:40.468652] Robot UR5 completed SetObjectState to [['yellowCubic12'], ['Suppressed']] !
+[2022-04-22 14:39:40.884957] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic12_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:39:42.576542] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-22 14:39:43.082002] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic01_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:39:43.477809] Robot ABB1200 completed SetObjectState to [['greenCubic12'], ['Suppressed']] !
+[2022-04-22 14:39:44.653925] Robot MIT completed SetObjectState to [['purpleCubic01'], ['Suppressed']] !
+[2022-04-22 14:39:46.226686] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-22 14:39:47.902024] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-22 14:39:47.919376] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce01_Up02', 'yellowCubicPalce01'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 14:39:48.429905] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-22 14:39:51.462857] Robot UR5 completed SetObjectState to [['yellowCubicInTray03'], ['Ready']] !
+[2022-04-22 14:39:57.138916] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:40:01.297341] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 14:40:01.945136] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:40:04.266393] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce03_Up02', 'purpleCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 14:40:04.776943] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-22 14:40:09.043604] Robot MIT completed SetObjectState to [['PurpleCubicInTray03'], ['Ready']] !
+[2022-04-22 14:40:09.985199] Robot UR5 completed SetObjectState to [['yellowCubic11', 'yellowCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:40:11.623098] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 14:40:17.190554] Robot UR5 completed CombinedMove to ['UR5', ['target', 'target', 'pose'], ['ur5_vaccum_home', 'yellowCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:40:17.835390] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'MitHome'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 14:40:24.046960] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 14:40:24.106497] Robot UR5 completed SetObjectState to [['yellowCubic11'], ['Suppressed']] !
+[2022-04-22 14:40:27.408230] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-22 14:40:27.415319] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'greenCubicPalce03_Up02', 'greenCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 14:40:27.926171] Robot ABB1200 completed SetVacuumOff to ABB1200 !
+[2022-04-22 14:40:28.467774] Robot MIT completed SetObjectState to [['purpleCubic02', 'PurpleCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:40:29.450749] Robot ABB1200 completed SetObjectState to [['GreenCubicInTray03'], ['Ready']] !
+[2022-04-22 14:40:31.859087] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 14:40:35.672339] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic02_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:40:37.284962] Robot MIT completed SetObjectState to [['purpleCubic02'], ['Suppressed']] !
+[2022-04-22 14:40:39.208277] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'abb_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 14:40:39.208950] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-22 14:40:39.253262] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 14:40:41.245229] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce02_Up02', 'yellowCubicPalce02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 14:40:41.755987] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-22 14:40:45.120511] Robot UR5 completed SetObjectState to [['yellowCubicInTray02'], ['Ready']] !
+[2022-04-22 14:40:46.160707] Robot ABB1200 completed SetObjectState to [['greenCubic11', 'GreenCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:40:48.318793] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:40:54.615412] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:40:55.693899] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 14:40:55.736818] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:40:55.765618] Robot ABB1200 completed SetObjectState to [['greenCubic11'], ['Suppressed']] !
+[2022-04-22 14:40:58.499887] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-22 14:40:59.501808] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce02_Up02', 'purpleCubicPlace02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 14:40:59.594941] Robot UR5 completed SetObjectState to [['yellowCubic10', 'yellowCubicInTray01'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:41:00.012569] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-22 14:41:03.287188] Robot MIT completed SetObjectState to [['PurpleCubicInTray02'], ['Ready']] !
+
+[2022-04-22 14:54:53.307629] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-22 14:54:53.307712] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:54:53.308435] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-22 14:54:56.457176] Robot ABB1200 completed SetObjectState to [['greenCubic12', 'GreenCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:54:57.211111] Robot UR5 completed SetObjectState to [['yellowCubic12', 'yellowCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:54:57.721894] Robot UR5 completed SetVacuumOn to UR5 !
+[2022-04-22 14:54:58.069255] Robot MIT completed SetObjectState to [['purpleCubic01', 'PurpleCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:55:02.080158] Robot UR5 completed Move to ['UR5', 'pose', [0, 0, -10, 0, 0, 0], 'direct', True, True] !
+[2022-04-22 14:55:03.683601] Robot UR5 completed SetObjectState to [['yellowCubic12'], ['Suppressed']] !
+[2022-04-22 14:55:04.097260] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic12_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:55:05.872860] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-22 14:55:06.394490] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic01_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:55:06.839630] Robot ABB1200 completed SetObjectState to [['greenCubic12'], ['Suppressed']] !
+[2022-04-22 14:55:08.173961] Robot MIT completed SetObjectState to [['purpleCubic01'], ['Suppressed']] !
+[2022-04-22 14:55:09.681633] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-22 14:55:09.719773] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce01_Up02', 'yellowCubicPalce01'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-22 14:55:10.230566] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-22 14:55:11.293827] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-22 14:55:14.058600] Robot UR5 completed SetObjectState to [['yellowCubicInTray03'], ['Ready']] !
+[2022-04-22 14:55:19.452009] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:55:21.899012] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-22 14:55:21.921643] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-22 14:55:24.307567] Robot UR5 completed SetObjectState to [['yellowCubic11', 'yellowCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-22 14:55:26.373424] Robot UR5 completed CombinedMove to ['UR5', ['target', 'target', 'pose'], ['ur5_vaccum_home', 'yellowCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-22 14:55:27.529432] Robot UR5 completed SetObjectState to [['yellowCubic11'], ['Suppressed']] !
+[2022-04-22 14:55:29.726684] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+
+
+
+
+
+
+
+
+
+
+[2022-04-25 11:43:28.721272] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 11:43:28.721365] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 11:43:28.721949] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 11:43:32.552846] Robot ABB1200 completed SetObjectState to [['greenCubic12', 'GreenCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:43:33.378586] Robot UR5 completed SetObjectState to [['yellowCubic12', 'yellowCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:43:33.889372] Robot UR5 completed SetVacuumOn to UR5 !
+[2022-04-25 11:43:34.136425] Robot MIT completed SetObjectState to [['purpleCubic01', 'PurpleCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:43:38.307487] Robot UR5 completed Move to ['UR5', 'pose', [0, 0, -10, 0, 0, 0], 'direct', True, True] !
+[2022-04-25 11:43:39.342966] Robot UR5 completed SetObjectState to [['yellowCubic12'], ['Suppressed']] !
+[2022-04-25 11:43:41.400354] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-25 11:43:41.933105] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic12_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:43:41.933356] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic01_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:43:42.922300] Robot ABB1200 completed SetObjectState to [['greenCubic12'], ['Suppressed']] !
+[2022-04-25 11:43:43.764733] Robot MIT completed SetObjectState to [['purpleCubic01'], ['Suppressed']] !
+[2022-04-25 11:43:45.390304] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-25 11:43:45.400682] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce01_Up02', 'yellowCubicPalce01'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:43:45.911557] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-25 11:43:47.017339] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-25 11:43:48.041155] Robot UR5 completed SetObjectState to [['yellowCubicInTray03'], ['Ready']] !
+[2022-04-25 11:44:06.701644] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 11:44:09.119980] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:44:09.235373] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 11:44:11.340331] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce03_Up02', 'purpleCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:44:11.371087] Robot UR5 completed SetObjectState to [['yellowCubic11', 'yellowCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:44:11.848401] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-25 11:44:12.991636] Robot MIT completed SetObjectState to [['PurpleCubicInTray03'], ['Ready']] !
+[2022-04-25 11:44:13.425613] Robot UR5 completed CombinedMove to ['UR5', ['target', 'target', 'pose'], ['ur5_vaccum_home', 'yellowCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:44:14.601350] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 11:44:15.638745] Robot UR5 completed SetObjectState to [['yellowCubic11'], ['Suppressed']] !
+[2022-04-25 11:44:18.113885] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-25 11:44:18.346509] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'MitHome'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:44:18.847516] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 11:44:20.856577] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'greenCubicPalce03_Up02', 'greenCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:44:20.943648] Robot MIT completed SetObjectState to [['purpleCubic02', 'PurpleCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:44:21.364821] Robot ABB1200 completed SetVacuumOff to ABB1200 !
+[2022-04-25 11:44:22.527473] Robot ABB1200 completed SetObjectState to [['GreenCubicInTray03'], ['Ready']] !
+[2022-04-25 11:44:24.184884] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 11:44:24.714900] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic02_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:44:27.856100] Robot MIT completed SetObjectState to [['purpleCubic02'], ['Suppressed']] !
+[2022-04-25 11:44:29.497741] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'abb_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:44:29.499262] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-25 11:44:29.848718] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 11:44:31.945301] Robot ABB1200 completed SetObjectState to [['greenCubic11', 'GreenCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:44:33.623155] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce02_Up02', 'purpleCubicPlace02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:44:34.136802] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-25 11:44:36.614971] Robot MIT completed SetObjectState to [['PurpleCubicInTray02'], ['Ready']] !
+[2022-04-25 11:44:38.320617] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 11:44:38.879134] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:44:39.954953] Robot ABB1200 completed SetObjectState to [['greenCubic11'], ['Suppressed']] !
+[2022-04-25 11:44:42.208772] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'MitHome'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:44:42.215227] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-25 11:44:42.281254] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 11:44:43.891907] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce02_Up02', 'yellowCubicPalce02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:44:44.402352] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-25 11:44:57.174498] Robot UR5 completed SetObjectState to [['yellowCubicInTray02'], ['Ready']] !
+[2022-04-25 11:44:58.093156] Robot MIT completed SetObjectState to [['purpleCubic03', 'PurpleCubicInTray01'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:44:59.997767] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 11:45:02.591507] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:45:02.634013] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 11:45:02.665428] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic03_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:45:05.417273] Robot MIT completed SetObjectState to [['purpleCubic03'], ['Suppressed']] !
+[2022-04-25 11:45:06.227761] Robot UR5 completed SetObjectState to [['yellowCubic10', 'yellowCubicInTray01'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:45:07.865511] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-25 11:45:21.811844] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'greenCubicPalce02_Up02', 'greenCubicPlace02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:45:22.321758] Robot ABB1200 completed SetVacuumOff to ABB1200 !
+[2022-04-25 11:45:23.369568] Robot ABB1200 completed SetObjectState to [['GreenCubicInTray02'], ['Ready']] !
+[2022-04-25 11:45:25.030577] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 11:45:29.913494] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'abb_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:45:30.069671] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 11:45:32.551930] Robot ABB1200 completed SetObjectState to [['greenCubic10', 'GreenCubicInTray01'], ['Ready', 'Suppressed']] !
+[2022-04-25 11:45:38.415321] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic10_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 11:45:39.609962] Robot ABB1200 completed SetObjectState to [['greenCubic10'], ['Suppressed']] !
+[2022-04-25 11:45:41.405670] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-25 11:45:48.296846] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'greenCubicPalce01_Up02', 'greenCubicPlace01'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 11:45:48.823512] Robot ABB1200 completed SetVacuumOff to ABB1200 !
+[2022-04-25 11:45:49.921916] Robot ABB1200 completed SetObjectState to [['GreenCubicInTray01'], ['Ready']] !
+[2022-04-25 11:45:51.697544] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 11:45:56.278783] Robot ABB1200 completed CombinedMove to ['ABB1200', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'abb_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 11:45:56.278894] Robot ABB1200 has finished!
+
+
+[2022-04-25 17:06:31.569267] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_Off'] !
+[2022-04-25 17:06:31.569346] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 17:06:31.570102] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 17:06:35.936065] Robot ABB1200 completed SetObjectState to [['greenCubic12', 'GreenCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-25 17:06:36.803331] Robot UR5 completed SetObjectState to [['yellowCubic12', 'yellowCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-25 17:06:37.313659] Robot UR5 completed SetVacuumOn to UR5 !
+[2022-04-25 17:06:37.726993] Robot MIT completed SetObjectState to [['purpleCubic01', 'PurpleCubicInTray03'], ['Ready', 'Suppressed']] !
+[2022-04-25 17:06:38.008917] Robot UR5 completed Move to ['UR5', 'pose', [0, 0, -10, 0, 0, 0], 'direct', True, True] !
+[2022-04-25 17:06:40.714258] Robot UR5 completed SetObjectState to [['yellowCubic12'], ['Suppressed']] !
+[2022-04-25 17:06:41.130919] Robot ABB1200 completed CombinedMove to ['ABB1200', ['target', 'target', 'pose'], ['abb_home', 'greenCubic12_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 17:06:43.351232] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-25 17:06:43.894851] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic01_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 17:06:44.490670] Robot ABB1200 completed SetObjectState to [['greenCubic12'], ['Suppressed']] !
+[2022-04-25 17:06:46.125830] Robot MIT completed SetObjectState to [['purpleCubic01'], ['Suppressed']] !
+[2022-04-25 17:06:48.125619] Robot ABB1200 completed SetRobotPreset to ['ABB1200', 'Vaccum_On'] !
+[2022-04-25 17:06:48.136413] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'yellowCubicPalce01_Up02', 'yellowCubicPalce01'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 17:06:48.647251] Robot UR5 completed SetVacuumOff to UR5 !
+[2022-04-25 17:06:50.234289] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-25 17:07:09.142376] Robot UR5 completed SetObjectState to [['yellowCubicInTray03'], ['Ready']] !
+[2022-04-25 17:07:16.337646] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 17:07:18.777896] Robot UR5 completed CombinedMove to ['UR5', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'ur5_vaccum_home'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 17:07:18.837391] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Pick'] !
+[2022-04-25 17:07:20.999421] Robot UR5 completed SetObjectState to [['yellowCubic11', 'yellowCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-25 17:07:21.049293] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce03_Up02', 'purpleCubicPlace03'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 17:07:21.559492] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-25 17:07:22.693364] Robot MIT completed SetObjectState to [['PurpleCubicInTray03'], ['Ready']] !
+[2022-04-25 17:07:23.114775] Robot UR5 completed CombinedMove to ['UR5', ['target', 'target', 'pose'], ['ur5_vaccum_home', 'yellowCubic11_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 17:07:24.294436] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 17:07:25.206449] Robot UR5 completed SetObjectState to [['yellowCubic11'], ['Suppressed']] !
+[2022-04-25 17:07:28.297549] Robot UR5 completed SetRobotPreset to ['UR5', 'Vaccum_Place'] !
+[2022-04-25 17:07:28.853685] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'MitHome'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 17:07:29.035165] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 17:07:31.125833] Robot MIT completed SetObjectState to [['purpleCubic02', 'PurpleCubicInTray02'], ['Ready', 'Suppressed']] !
+[2022-04-25 17:07:34.735407] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic02_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 17:07:35.794304] Robot MIT completed SetObjectState to [['purpleCubic02'], ['Suppressed']] !
+[2022-04-25 17:07:37.521874] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+[2022-04-25 17:07:43.509582] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target', 'target'], [[0, 0, 60, 0, 0, 0], 'purpleCubicPalce02_Up02', 'purpleCubicPlace02'], ['direct', 'roadmap', 'roadmap'], [True, False, False], [10.0, 10.0, 10.0], [False, True, True], [1.0, 1.0, 1.0], ['j', 'j', 'j'], False] !
+[2022-04-25 17:07:44.023528] Robot MIT completed SetVacuumOff to MIT !
+[2022-04-25 17:07:45.282171] Robot MIT completed SetObjectState to [['PurpleCubicInTray02'], ['Ready']] !
+[2022-04-25 17:07:47.060027] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 17:07:50.105001] Robot MIT completed CombinedMove to ['MIT', ['pose', 'target'], [[0, 0, 86.243, 0, 0, 0], 'MitHome'], ['direct', 'roadmap'], [True, False], [0.0, 0.0], [False, True], [1.0, 1.0], ['j', 'j'], False] !
+[2022-04-25 17:07:50.143386] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_Off'] !
+[2022-04-25 17:07:52.314489] Robot MIT completed SetObjectState to [['purpleCubic03', 'PurpleCubicInTray01'], ['Ready', 'Suppressed']] !
+[2022-04-25 17:07:56.161730] Robot MIT completed CombinedMove to ['MIT', ['target', 'target', 'pose'], ['MitHome', 'purpleCubic03_Approach02', [0, 0, -10, 0, 0, 0]], ['roadmap', 'roadmap', 'direct'], [False, False, True], [10.0, 10.0, 10.0], [True, True, False], [1.0, 1.0, 1.0], ['j', 'j', 'j'], True, 3, 'vacuum', 1] !
+[2022-04-25 17:07:57.401963] Robot MIT completed SetObjectState to [['purpleCubic03'], ['Suppressed']] !
+[2022-04-25 17:07:59.032823] Robot MIT completed SetRobotPreset to ['MIT', 'Vaccum_On'] !
+

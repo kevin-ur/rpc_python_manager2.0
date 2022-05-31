@@ -1,0 +1,15 @@
+git remote add rpc_2.0  git@github.com:kevin-ur/python_manager2.0.git
+git push -uf rpc_2.0 main
+
+git commit -m "add unpack01"
+git add.
+
+git pull rpc_2.0 main
+
+$ git pull
+$ git pull <remote>
+
+git remote -v
+
+
+$ git pull <remote> <branch>
